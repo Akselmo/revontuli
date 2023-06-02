@@ -34,7 +34,7 @@ For general web/UI usage:
 
 For syntax highlighting:
 
-See Kate syntax highlighting: [Kate Revontuli theme]("./Kate/revontuli.theme")
+See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
 
 ## Notes for specific themes
 
