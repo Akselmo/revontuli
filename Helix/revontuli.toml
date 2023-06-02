@@ -1,0 +1,107 @@
+# Based on onedarker.toml https://github.com/helix-editor/helix/blob/master/runtime/themes/onedarker.toml
+# Original Author : nuid32 <lvkuzvesov@proton.me>
+# Recoloring: Akselmo <akselmo@akselmo.dev>
+
+"attribute" = { fg = "yellow" }
+"comment" = { fg = "light-gray", modifiers = ["italic"] }
+"constant" = { fg = "gold" }
+"constant.numeric" = { fg = "gold" }
+"constant.builtin" = { fg = "gold" }
+"constant.character.escape" = { fg = "gold" }
+"constructor" = { fg = "blue" }
+"function" = { fg = "white" }
+"function.builtin" = { fg = "blue" }
+"function.macro" = { fg = "purple" }
+"keyword" = { fg = "purple" }
+"keyword.control" = { fg = "purple" }
+"keyword.control.import" = { fg = "purple" }
+"keyword.directive" = { fg = "purple" }
+"label" = { fg = "purple" }
+"namespace" = { fg = "purple" }
+"operator" = { fg = "white" }
+"keyword.operator" = { fg = "white" }
+"special" = { fg = "blue" }
+"string" = { fg = "green" }
+"type" = { fg = "yellow" }
+"variable" = { fg = "white" }
+"variable.builtin" = { fg = "light-green" }
+"variable.parameter" = { fg = "light-green" }
+"variable.other.member" = { fg = "light-green" }
+
+"markup.heading" = { fg = "red" }
+"markup.raw.inline" = { fg = "green" }
+"markup.raw.block" = { fg = "white" }
+"markup.bold" = { fg = "gold", modifiers = ["bold"] }
+"markup.italic" = { fg = "purple", modifiers = ["italic"] }
+"markup.strikethrough" = { modifiers = ["crossed_out"] }
+"markup.list" = { fg = "red" }
+"markup.quote" = { fg = "yellow" }
+"markup.link.url" = { fg = "blue", modifiers = ["underlined"]}
+"markup.link.text" = { fg = "white" }
+"markup.link.label" = { fg = "white" }
+
+"diff.plus" = "green"
+"diff.delta" = "gold"
+"diff.minus" = "red"
+
+"diagnostic.info".underline = { color = "blue", style = "curl" } 
+"diagnostic.hint".underline = { color = "green", style = "curl" } 
+"diagnostic.warning".underline = { color = "yellow", style = "curl" } 
+"diagnostic.error".underline = { color = "red", style = "curl" } 
+
+"info" = { fg = "blue", modifiers = ["bold"] }
+"hint" = { fg = "green", modifiers = ["bold"] }
+"warning" = { fg = "yellow", modifiers = ["bold"] }
+"error" = { fg = "red", modifiers = ["bold"] }
+
+"ui.background" = { bg = "black" }
+"ui.virtual" = { fg = "faint-gray" }
+"ui.virtual.indent-guide" = { fg = "faint-gray" }
+"ui.virtual.whitespace" = { fg = "light-gray" }
+"ui.virtual.ruler" = { bg = "gray" }
+
+"ui.cursor" = { fg = "white", modifiers = ["reversed"] }
+"ui.cursor.primary" = { fg = "white", modifiers = ["reversed"] }
+"ui.cursor.match" = { fg = "blue", modifiers = ["underlined"]}
+
+"ui.selection" = { bg = "gray" }
+"ui.selection.primary" = { bg = "gray" }
+"ui.cursorline.primary" = { bg = "light-black" }
+
+"ui.linenr" = { fg = "linenr" }
+"ui.linenr.selected" = { fg = "light-green" }
+
+"ui.statusline" = { fg = "white", bg = "light-black" }
+"ui.statusline.inactive" = { fg = "light-gray", bg = "light-black" }
+"ui.statusline.normal" = { fg = "light-black", bg = "purple" }
+"ui.statusline.insert" = { fg = "light-black", bg = "green" }
+"ui.statusline.select" = { fg = "light-black", bg = "cyan" }
+"ui.text" = { fg = "white" }
+"ui.text.focus" = { fg = "blue", bg = "gray", modifiers = ["bold"] }
+
+"ui.help" = { fg = "white", bg = "gray" }
+"ui.debug" = { fg = "red" }
+"ui.highlight.frameline" = { bg = "light-green" }
+"ui.popup" = { bg = "light-black" }
+"ui.window" = { fg = "gray" }
+"ui.menu" = { fg = "white", bg = "gray" }
+"ui.menu.selected" = { fg = "black", bg = "blue" }
+"ui.menu.scroll" = { fg = "white", bg = "light-gray" }
+
+[palette]
+
+yellow = "#ff9233"
+blue = "#33aaff"
+red = "#ff3344"
+purple = "#838fff"
+green = "#5fff33"
+gold = "#ff6912"
+cyan = "#33ffff"
+white = "#FFFFFF"
+black = "#202020"
+light-black = "#252525"
+gray = "#353535"
+faint-gray = "#454545"
+light-gray = "#505050"
+linenr = "#E0E0E0"
+light-green = "#33ffa0"
