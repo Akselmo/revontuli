@@ -13,14 +13,18 @@ When making a new Revontuli theme, especially for code editors,
 **please follow the Kate theme settings as close as possible, so
 there is an uniform syntax highlighting across applications!**
 
+The colors are not strict! Feel free to play around with them. Just make sure the contrast is high enough for good
+distinction in parts where it is important.
+
 ## Palette
 
-For general web/UI usage:
+### For general web/UI usage:
 
 | Color                                    | Hex       | Usage                |
 | ---------------------------------------- | --------- | -------------------- |
 | <span style="color:#202020">█████</span> | `#202020` | Normal Background    |
-| <span style="color:#2b2b2b">█████</span> | `#2b2b2b` | Alternate Background |
+| <span style="color:#2b2b2b">█████</span> | `#2b2b2b` | Alternate Background 1 |
+| <span style="color:#404040">█████</span> | `#404040` | Alternate Background 2 |
 | <span style="color:#ffffff">█████</span> | `#ffffff` | Normal text          |
 | <span style="color:#9f9f9f">█████</span> | `#9f9f9f` | Inactive text        |
 | <span style="color:#33ffff">█████</span> | `#33ffff` | Active text          |
@@ -32,9 +36,24 @@ For general web/UI usage:
 | <span style="color:#d970ff">█████</span> | `#d970ff` | Focus                |
 | <span style="color:#33ffa0">█████</span> | `#33ffa0` | Hover                |
 
-For syntax highlighting:
+### For syntax highlighting:
 
 See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
+
+### The default shading from gray to white:
+
+| Color                                    | Hex       |
+| ---------------------------------------- | --------- |
+| <span style="color:#202020">█████</span> | `#202020` |
+| <span style="color:#404040">█████</span> | `#404040` |
+| <span style="color:#606060">█████</span> | `#606060` |
+| <span style="color:#808080">█████</span> | `#808080` |
+| <span style="color:#9F9F9F">█████</span> | `#9F9F9F` |
+| <span style="color:#BFBFBF">█████</span> | `#BFBFBF` |
+| <span style="color:#DFDFDF">█████</span> | `#DFDFDF` |
+| <span style="color:#FFFFFF">█████</span> | `#FFFFFF` |
+
+Feel free to use midtones (like `#2b2b2b` above) whenever needed.
 
 ## Notes for specific themes
 
