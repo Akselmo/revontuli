@@ -59,13 +59,20 @@ Feel free to use midtones (like `#2b2b2b` above) whenever needed.
 
 ### Kate theme
 
-The Kate colorscheme is the most up-to-date one. When it comes to
-syntax highlighting, please follow the Kate theme settings, so
+**The Kate colorscheme is the most up-to-date one**, since it is my main text editor.
+When it comes to syntax highlighting, please follow the Kate theme settings, so
 there is an uniform syntax highlighting across applications.
 
 ### Jetbrains IDE theme
 This theme can be a bit broken due to not finding
 all the right elements and modifying them to match the colorscheme.
 
-Help is welcome.
+**Help is welcome.**
 
+### Vim theme
+
+Vim theme should work on both Vim and Neovim, I use it with Neovim.
+However there are some things that may look wrong due to LSP coloring them or they just have no
+colorization implemented yet.
+
+**Help is welcome!**
