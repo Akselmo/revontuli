@@ -22,8 +22,8 @@
         },
         "Modelines": {
             "Variable": {
-                "selected-text-color": "#a6a6a6",
-                "text-color": "#a6a6a6"
+                "selected-text-color": "#BFBFBF",
+                "text-color": "#BFBFBF"
             }
         },
         "Python": {
@@ -44,32 +44,32 @@
     },
     "editor-colors": {
         "BackgroundColor": "#202020",
-        "BracketMatching": "#4c2759",
+        "BracketMatching": "#552c64",
         "CodeFolding": "#141414",
-        "CurrentLine": "#1e1e1e",
-        "CurrentLineNumber": "#c1bcc2",
+        "CurrentLine": "#1b1b1b",
+        "CurrentLineNumber": "#33FFA0",
         "IconBorder": "#161616",
         "IndentationLine": "#5d5d5d",
-        "LineNumbers": "#a29da3",
+        "LineNumbers": "#BFBFBF",
         "MarkBookmark": "#33aaff",
         "MarkBreakpointActive": "#ff3344",
-        "MarkBreakpointDisabled": "#e0dce0",
-        "MarkBreakpointReached": "#a8222d",
+        "MarkBreakpointDisabled": "#9F9F9F",
+        "MarkBreakpointReached": "#33FFFF",
         "MarkError": "#ff3344",
-        "MarkExecution": "#a29da3",
+        "MarkExecution": "#9F9F9F",
         "MarkWarning": "#ff9233",
         "ModifiedLines": "#ffe033",
-        "ReplaceHighlight": "#82491a",
+        "ReplaceHighlight": "#643814",
         "SavedLines": "#5fff33",
         "SearchHighlight": "#286c16",
         "Separator": "#33ffff",
-        "SpellChecking": "#ffdbc1",
+        "SpellChecking": "#64141b",
         "TabMarker": "#3a3a3a",
-        "TemplateBackground": "#474247",
+        "TemplateBackground": "#606060",
         "TemplateFocusedPlaceholder": "#5fff33",
         "TemplatePlaceholder": "#36911d",
         "TemplateReadOnlyPlaceholder": "#ff3344",
-        "TextSelection": "#133f5f",
+        "TextSelection": "#144364",
         "WordWrapMarker": "#1e1e1e"
     },
     "metadata": {
@@ -104,12 +104,12 @@
             "text-color": "#33aaff"
         },
         "Comment": {
-            "selected-text-color": "#847e85",
-            "text-color": "#847e85"
+            "selected-text-color": "#606060",
+            "text-color": "#606060"
         },
         "CommentVar": {
-            "selected-text-color": "#847e85",
-            "text-color": "#847e85"
+            "selected-text-color": "#606060",
+            "text-color": "#606060"
         },
         "Constant": {
             "bold": true,
