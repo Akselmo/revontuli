@@ -34,7 +34,7 @@ distinction in parts where it is important.
 | <span style="color:#ff9233">█████</span> | `#ff9233` | Neutral text         |
 | <span style="color:#5fff33">█████</span> | `#5fff33` | Positive text        |
 | <span style="color:#d970ff">█████</span> | `#d970ff` | Focus                |
-| <span style="color:#33ffa0">█████</span> | `#33ffa0` | Hover                |
+| <span style="color:#33ffa0">█████</span> | `#33ffa0` | Hover/Accent         |
 
 ### For syntax highlighting:
 
