@@ -15,7 +15,26 @@ there is an uniform syntax highlighting across applications!**
 
 ## Palette
 
-**Palette goes here**
+For general web/UI usage:
+
+| Color                                    | Hex       | Usage                |
+| ---------------------------------------- | --------- | -------------------- |
+| <span style="color:#202020">█████</span> | `#202020` | Normal Background    |
+| <span style="color:#2b2b2b">█████</span> | `#2b2b2b` | Alternate Background |
+| <span style="color:#ffffff">█████</span> | `#ffffff` | Normal text          |
+| <span style="color:#9f9f9f">█████</span> | `#9f9f9f` | Inactive text        |
+| <span style="color:#33ffff">█████</span> | `#33ffff` | Active text          |
+| <span style="color:#33aaff">█████</span> | `#33aaff` | Link text            |
+| <span style="color:#838fff">█████</span> | `#838fff` | Visited text         |
+| <span style="color:#ff3344">█████</span> | `#ff3344` | Negative text        |
+| <span style="color:#ff9233">█████</span> | `#ff9233` | Neutral text         |
+| <span style="color:#5fff33">█████</span> | `#5fff33` | Positive text        |
+| <span style="color:#d970ff">█████</span> | `#d970ff` | Focus                |
+| <span style="color:#33ffa0">█████</span> | `#33ffa0` | Hover                |
+
+For syntax highlighting:
+
+See Kate syntax highlighting: [Kate Revontuli theme]("./Kate/revontuli.theme")
 
 ## Notes for specific themes
 
