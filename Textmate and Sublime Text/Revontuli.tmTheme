@@ -34,7 +34,7 @@
 				<key>activeGuide</key>
 				<string>#33FFA0</string>
 				<key>bracketsForeground</key>
-				<string>#DFDFDF7F</string>
+				<string>#DFDFDF80</string>
 				<key>bracketsOptions</key>
 				<string>stippled_underline</string>
 				<key>bracketsContentsForeground</key>
@@ -324,6 +324,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#33FFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Text</string>
+			<key>scope</key>
+			<string>text</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 	</array>
