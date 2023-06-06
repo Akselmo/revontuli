@@ -2,7 +2,7 @@
 
 Revontuli is a dark yet vibrant colorscheme, with quite high contrast. 
 
-![Revontuli palette in Kate](/kate/kate.png)
+![Revontuli palette in Kate](https://codeberg.org/akselmo/Revontuli/raw/branch/main/Kate/kate.png)
 
 It's not exactly a high contrast theme, but it's close!
 
