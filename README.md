@@ -1,5 +1,5 @@
 
-<p align="center"><h1>Revontuli</h1></p>
+<h1 align="center">Revontuli</h1>
 <p align="center"><img src="revontuli_logo.png" style="align:center;" width="25%" alt="Revontuli logo, a color gradient consisting from the main colors of the theme. Background is dark."></p>
 <p align="center">A high contrast-ish colorscheme</p>
 
