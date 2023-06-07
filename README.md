@@ -1,7 +1,6 @@
+# Revontuli colorscheme
 
-<h1 style="text-align: center;">Revontuli</h1>
-<img src="revontuli_logo.png" style="align:center;" width="50%" alt="Revontuli logo, a color gradient consisting from the main colors of the theme. Background is dark.">
-<br>
+<img src="revontuli_logo.png" style="align:center;" width="25%" alt="Revontuli logo, a color gradient consisting from the main colors of the theme. Background is dark.">
 
 Revontuli is a dark yet vibrant colorscheme, with quite high contrast. 
 
