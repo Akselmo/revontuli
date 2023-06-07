@@ -1,6 +1,11 @@
-# Revontuli
+
+<h1 style="text-align: center;">Revontuli</h1>
+<img src="revontuli_logo.png" style="align:center;" width="50%" alt="Revontuli logo, a color gradient consisting from the main colors of the theme. Background is dark.">
+<br>
 
 Revontuli is a dark yet vibrant colorscheme, with quite high contrast. 
+
+Logo was made by my wife [tecsiederp](https://mastodon.art/@tecsiederp). Thanks! <3
 
 ![Revontuli palette in Kate](https://codeberg.org/akselmo/Revontuli/raw/branch/main/Kate/kate.png)
 
