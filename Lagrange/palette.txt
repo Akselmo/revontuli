@@ -1,0 +1,16 @@
+# Dark
+
+black:      #000000
+gray25:     #202020
+gray50:     #404040
+gray75:     #808080
+white:      #FFFFFF
+brown:      #838fff
+orange:     #ff9233
+teal:       #1e9494
+cyan:       #33ffff
+yellow:     #ffe033
+red:        #ff3344
+magenta:    #d970ff
+blue:       #33aaff
+green:      #5fff33
