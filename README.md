@@ -35,6 +35,7 @@ distinction in parts where it is important.
 | <span style="color:#5fff33">█████</span> | `#5fff33` | Positive text        |
 | <span style="color:#d970ff">█████</span> | `#d970ff` | Focus                |
 | <span style="color:#33ffa0">█████</span> | `#33ffa0` | Hover/Accent         |
+| <span style="color:#ffe033">█████</span> | `#ffe033` | Special cases        |
 
 ### For syntax highlighting:
 
