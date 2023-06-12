@@ -22,8 +22,8 @@
         },
         "Modelines": {
             "Variable": {
-                "selected-text-color": "#BFBFBF",
-                "text-color": "#BFBFBF"
+                "selected-text-color": "#bfbfbf",
+                "text-color": "#bfbfbf"
             }
         },
         "Python": {
@@ -47,16 +47,16 @@
         "BracketMatching": "#552c64",
         "CodeFolding": "#141414",
         "CurrentLine": "#1b1b1b",
-        "CurrentLineNumber": "#33FFA0",
+        "CurrentLineNumber": "#33ffa0",
         "IconBorder": "#161616",
         "IndentationLine": "#5d5d5d",
-        "LineNumbers": "#BFBFBF",
+        "LineNumbers": "#bfbfbf",
         "MarkBookmark": "#33aaff",
-        "MarkBreakpointActive": "#ff3344",
-        "MarkBreakpointDisabled": "#9F9F9F",
-        "MarkBreakpointReached": "#33FFFF",
+        "MarkBreakpointActive": "#c72835",
+        "MarkBreakpointDisabled": "#9f9f9f",
+        "MarkBreakpointReached": "#28c7c7",
         "MarkError": "#ff3344",
-        "MarkExecution": "#9F9F9F",
+        "MarkExecution": "#9f9f9f",
         "MarkWarning": "#ff9233",
         "ModifiedLines": "#ffe033",
         "ReplaceHighlight": "#643814",
@@ -66,9 +66,9 @@
         "SpellChecking": "#64141b",
         "TabMarker": "#3a3a3a",
         "TemplateBackground": "#606060",
-        "TemplateFocusedPlaceholder": "#5fff33",
+        "TemplateFocusedPlaceholder": "#144364",
         "TemplatePlaceholder": "#36911d",
-        "TemplateReadOnlyPlaceholder": "#ff3344",
+        "TemplateReadOnlyPlaceholder": "#a1202b",
         "TextSelection": "#144364",
         "WordWrapMarker": "#1e1e1e"
     },
