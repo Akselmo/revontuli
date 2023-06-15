@@ -16,8 +16,8 @@ body {
     --foreground-mixed-color: #BFBFBF;
     --foreground-primary-color: #fff;
     --foreground-secondary-color: #33aaff;
-    --link-color: #33aaff;
-    --link-hover-color: #33ffff;
+    --link-color: #33ffff;
+    --link-hover-color: #33ffa0;
     --link-visited-color: #838fff;
     --stripe-mine-color: #838fff;
     --stripe-target-color: #ff9233;
