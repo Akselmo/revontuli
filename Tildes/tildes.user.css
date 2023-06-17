@@ -1,0 +1,71 @@
+/* ==UserStyle==
+@name           Revontuli for Tildes
+@namespace      https://codeberg.org/akselmo/Revontuli
+@homepageURL    https://codeberg.org/akselmo/Revontuli/src/branch/main/Tildes
+@supportURL     https://codeberg.org/akselmo/Revontuli/issues
+@updateURL      https://codeberg.org/akselmo/Revontuli/raw/branch/main/Tildes/tildes.user.css
+@version        1.0.0
+@description    Revontuli high contrast userstyle for Tildes.net
+@license        MIT
+@author	        akselmo https://akselmo.dev
+@preprocessor   stylus
+
+==/UserStyle== */
+
+@-moz-document domain("tildes.net") {
+    body[class|="theme"] {
+        --alert-color: #e66b00;
+        --background-input-color: #404040;
+        --background-mixed-color: #2b2b2b;
+        --background-primary-color: #202020;
+        --background-secondary-color: #2b2b2b;
+        --border-color: #606060;
+        --button-color: #33ffff;
+        --button-by-brightness-color: #000;
+        --button-transparent-color: rgba(20, 96, 170, 0.2);
+        --button-used-color: #838fff;
+        --error-color: #ff3344;
+        --error-by-brightness-color: #ff3344;
+        --foreground-extreme-color: #33ffa0;
+        --foreground-highlight-color: #fff;
+        --foreground-mixed-color: #BFBFBF;
+        --foreground-primary-color: #fff;
+        --foreground-secondary-color: #33aaff;
+        --link-color: #33ffff;
+        --link-hover-color: #33ffa0;
+        --link-visited-color: #838fff;
+        --stripe-mine-color: #838fff;
+        --stripe-target-color: #ff9233;
+        --success-color: #5fff33;
+        --syntax-builtin-color: #838fff;
+        --syntax-comment-color: #606060;
+        --syntax-constant-color: #33ffff;
+        --syntax-keyword-color: #33aaff;
+        --syntax-literal-color: #ffe033;
+        --syntax-string-color: #5fff33;
+        --topic-tag-nsfw-color: #ff3344;
+        --topic-tag-nsfw-foreground-color: #fff;
+        --topic-tag-nsfw-border-color: transparent;
+        --topic-tag-spoiler-color: #ff9233;
+        --topic-tag-spoiler-foreground-color: #fff;
+        --topic-tag-spoiler-border-color: transparent;
+        --warning-color: #ff9233;
+        --warning-background-color: rgba(230, 107, 0, 0.9);
+        --warning-foreground-color: #000;
+        --background-label-exemplary-color: #33aaff;
+        --background-label-joke-color: #d970ff;
+        --background-label-noise-color: #404040;
+        --background-label-offtopic-color: #5fff33;
+        --background-label-malice-color: #ff3344;
+        --comment-label-exemplary-color: #33aaff;
+        --comment-label-joke-color: #d970ff;
+        --comment-label-noise-color: #404040;
+        --comment-label-offtopic-color: #5fff33;
+        --comment-label-malice-color: #ff3344;
+        --foreground-label-exemplary-color: #000;
+        --foreground-label-joke-color: #000;
+        --foreground-label-noise-color: #000;
+        --foreground-label-offtopic-color: #000;
+        --foreground-label-malice-color: #000;
+    }
+}
