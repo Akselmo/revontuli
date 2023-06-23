@@ -25,6 +25,8 @@ distinction in parts where it is important.
 
 ### For general web/UI usage:
 
+#### Dark
+
 | Color                                    | Hex       | Usage                |
 | ---------------------------------------- | --------- | -------------------- |
 | <span style="color:#202020">█████</span> | `#202020` | Normal Background    |
@@ -42,11 +44,33 @@ distinction in parts where it is important.
 | <span style="color:#33ffa0">█████</span> | `#33ffa0` | Hover/Accent         |
 | <span style="color:#ffe033">█████</span> | `#ffe033` | Special cases        |
 
+#### Light
+
+| Color                                    | Hex       | Usage                |
+| ---------------------------------------- | --------- | -------------------- |
+| <span style="color:#f2f2f2">█████</span> | `#f2f2f2` | Normal Background    |
+| <span style="color:#e6e6e6">█████</span> | `#e6e6e6` | Alternate Background 1 |
+| <span style="color:#fafafa">█████</span> | `#fafafa` | Alternate Background 2 |
+| <span style="color:#000000">█████</span> | `#000000` | Normal text          |
+| <span style="color:#2b2b2b">█████</span> | `#2b2b2b` | Inactive text        |
+| <span style="color:#28c8c8">█████</span> | `#28c8c8` | Active text          |
+| <span style="color:#2885c8">█████</span> | `#2885c8` | Link text            |
+| <span style="color:#6770c8">█████</span> | `#6770c8` | Visited text         |
+| <span style="color:#c82835">█████</span> | `#c82835` | Negative text        |
+| <span style="color:#c87028">█████</span> | `#c87028` | Neutral text         |
+| <span style="color:#4bc828">█████</span> | `#4bc828` | Positive text        |
+| <span style="color:#be62df">█████</span> | `#be62df` | Focus                |
+| <span style="color:#28c87d">█████</span> | `#28c87d` | Hover/Accent         |
+| <span style="color:#dfc12d">█████</span> | `#dfc12d` | Special cases        |
+
+
 ### For syntax highlighting:
 
 See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
 
 ### The default shading from gray to white:
+
+#### Dark
 
 | Color                                    | Hex       |
 | ---------------------------------------- | --------- |
@@ -59,7 +83,22 @@ See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
 | <span style="color:#DFDFDF">█████</span> | `#DFDFDF` |
 | <span style="color:#FFFFFF">█████</span> | `#FFFFFF` |
 
+
+#### Light
+
+| Color                                    | Hex       |
+| ---------------------------------------- | --------- |
+| <span style="color:#000000">█████</span> | `#000000` |
+| <span style="color:#252525">█████</span> | `#252525` |
+| <span style="color:#474747">█████</span> | `#474747` |
+| <span style="color:#656565">█████</span> | `#656565` |
+| <span style="color:#808080">█████</span> | `#808080` |
+| <span style="color:#C1C1C1">█████</span> | `#C1C1C1` |
+| <span style="color:#E0E0E0">█████</span> | `#E0E0E0` |
+| <span style="color:#f2f2f2">█████</span> | `#f2f2f2` |
+
 Feel free to use midtones (like `#2b2b2b` above) whenever needed.
+
 
 ## Notes for specific themes
 
