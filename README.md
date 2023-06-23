@@ -93,8 +93,8 @@ See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
 | <span style="color:#474747">█████</span> | `#474747` |
 | <span style="color:#656565">█████</span> | `#656565` |
 | <span style="color:#808080">█████</span> | `#808080` |
-| <span style="color:#C1C1C1">█████</span> | `#C1C1C1` |
-| <span style="color:#E0E0E0">█████</span> | `#E0E0E0` |
+| <span style="color:#909090">█████</span> | `#909090` |
+| <span style="color:#B2b2b2">█████</span> | `#B2b2b2` |
 | <span style="color:#f2f2f2">█████</span> | `#f2f2f2` |
 
 Feel free to use midtones (like `#2b2b2b` above) whenever needed.
