@@ -1,7 +1,4 @@
-﻿/*revontuli
-CodeMirror theme file created with CodeMirror-Themes
-https://github.com/mkaminsky11/codemirror-themes*/
-.cm-s-revontuli.CodeMirror{background:rgba(32,32,32,1) !important;}
+﻿.cm-s-revontuli.CodeMirror{background:rgba(32,32,32,1) !important;}
 .cm-s-revontuli.CodeMirror{color:rgba(255,255,255,1) !important;}
 .cm-s-revontuli div.CodeMirror-selected{background:rgba(29,117,179,0.8) !important;}
 .cm-s-revontuli .CodeMirror-gutters{background:rgba(22,22,22,1) !important;}
@@ -27,3 +24,5 @@ https://github.com/mkaminsky11/codemirror-themes*/
 .cm-s-revontuli span.cm-error{color:rgba(0,0,0,1) !important;}
 .cm-s-revontuli .CodeMirror-activeline-background{color:rgba(27,27,27,1) !important;}
 .cm-s-revontuli .CodeMirror-matchingbracket{color:rgba(217,112,255,1) !important;}
+
+/*revontuli CodeMirror theme file created with CodeMirror-Themes https://github.com/mkaminsky11/codemirror-themes*/
