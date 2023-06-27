@@ -1,0 +1,29 @@
+﻿/*revontuli
+CodeMirror theme file created with CodeMirror-Themes
+https://github.com/mkaminsky11/codemirror-themes*/
+.cm-s-revontuli.CodeMirror{background:rgba(32,32,32,1) !important;}
+.cm-s-revontuli.CodeMirror{color:rgba(255,255,255,1) !important;}
+.cm-s-revontuli div.CodeMirror-selected{background:rgba(29,117,179,0.8) !important;}
+.cm-s-revontuli .CodeMirror-gutters{background:rgba(22,22,22,1) !important;}
+.cm-s-revontuli .CodeMirror-guttermarker{color:rgba(191,191,191,1) !important;}
+.cm-s-revontuli .CodeMirror-guttermarker-subtle{color:rgba(191,191,191,1) !important;}
+.cm-s-revontuli .CodeMirror-linenumber{color:rgba(191,191,191,1) !important;}
+.cm-s-revontuli .CodeMirror-cursor{border-color:rgba(51,255,160,1) !important;}
+.cm-s-revontuli span.cm-comment{color:rgba(96,96,96,1) !important;}
+.cm-s-revontuli span.cm-atom{color:rgba(51,170,255,1) !important;}
+.cm-s-revontuli span.cm-number{color:rgba(255,146,51,1) !important;}
+.cm-s-revontuli span.cm-property{color:rgba(131,143,255,1) !important;}
+.cm-s-revontuli span.cm-attribute{color:rgba(95,255,51,1) !important;}
+.cm-s-revontuli span.cm-keyword{color:rgba(51,170,255,1) !important;}
+.cm-s-revontuli span.cm-string{color:rgba(95,255,51,1) !important;}
+.cm-s-revontuli span.cm-string-2{color:rgba(255,146,51,1) !important;}
+.cm-s-revontuli span.cm-variable{color:rgba(248,248,242,1) !important;}
+.cm-s-revontuli span.cm-variable-2{color:rgba(255,255,255,1) !important;}
+.cm-s-revontuli span.cm-def{color:rgba(253,151,31,1) !important;}
+.cm-s-revontuli span.cm-bracket{color:rgba(51,255,255,1) !important;}
+.cm-s-revontuli span.cm-tag{color:rgba(217,112,255,1) !important;}
+.cm-s-revontuli span.cm-link{color:rgba(131,143,255,1) !important;}
+.cm-s-revontuli span.cm-error{background:rgba(255,51,68,1) !important;}
+.cm-s-revontuli span.cm-error{color:rgba(0,0,0,1) !important;}
+.cm-s-revontuli .CodeMirror-activeline-background{color:rgba(27,27,27,1) !important;}
+.cm-s-revontuli .CodeMirror-matchingbracket{color:rgba(217,112,255,1) !important;}
