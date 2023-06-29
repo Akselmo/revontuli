@@ -88,6 +88,11 @@ html[data-theme=white] {
 }
 
 /*revontuli CodeMirror theme file created with CodeMirror-Themes https://github.com/mkaminsky11/codemirror-themes*/
+/* Add this to config:
+
+ :editor/extra-codemirror-options   {:theme "revontuli"}
+
+*/
 
 .cm-s-revontuli.CodeMirror { background:rgba(32,32,32,1); }
 .cm-s-revontuli.CodeMirror { color:#ffffff; }
@@ -116,3 +121,10 @@ html[data-theme=white] {
 .cm-s-revontuli .CodeMirror-activeline-background { background: #1b1b1b; }
 .cm-s-revontuli .CodeMirror-matchingbracket { color:rgba(217,112,255,1); }
 
+.cp__header a, .cp__header button, .cp__right-sidebar-topbar button {
+    opacity: 1 !important;
+}
+
+.ui__icon {
+  color: var(--ct-highlight-color);
+}
