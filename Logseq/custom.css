@@ -41,6 +41,8 @@ html[data-theme=dark] {
   --ct-header-bg-color: #2b2b2b;
   --ls-selection-color: #000;
   --ls-block-highlight-color: #1b5986;
+  --ls-page-inline-code-fg-color: #ffffff;
+  --ls-page-inline-code-bg-color: #202020;
 }
 
 .white-theme,
@@ -85,6 +87,8 @@ html[data-theme=white] {
   --ls-page-properties-background-color: var(--ls-secondary-background-color);
   --ls-selection-color: #fff;
   --ct-header-bg-color: rgba(242, 242, 242, 0.9);
+  --ls-page-inline-code-fg-color: #ffffff;
+  --ls-page-inline-code-bg-color: #202020;
 }
 
 /*revontuli CodeMirror theme file created with CodeMirror-Themes https://github.com/mkaminsky11/codemirror-themes*/

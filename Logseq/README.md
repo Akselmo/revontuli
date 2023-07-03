@@ -1,5 +1,8 @@
 # Logseq theme
 
+![Revontuli for Logseq](logseq.png)
+
+
 How-to:
 
 1. Copy contents of the `custom.css` to Settings -> Edit custom.css
