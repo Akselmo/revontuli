@@ -1,0 +1,58 @@
+@-moz-document domain("https://lwn.net/") {
+body {
+    color: white;
+    background-color: #202020;
+}
+
+h1 {
+    color: white;
+}
+
+H2.Headline,
+H3.CommentTitle {
+    background-color: #404040 !important;
+    color: #33ffa0;
+}
+
+DIV.CommentBox {
+    border-color: #404040;
+}
+
+#menu,
+.navmenu ul,
+DIV.topnav-container {
+    background-color: #2b2b2b;
+}
+
+a {
+    color: #33aaff !important;
+}
+
+a:hover {
+    color: #33ffff !important;
+    background-color: inherit;
+}
+
+a:visited {
+    color: #838fff !important;
+}
+
+span {
+    color: #5fff33 !important;
+}
+
+blockquote,
+Q {
+    background-color: inherit !important;
+    color: #ff9233 !important;
+}
+
+input {
+    color: white;
+    background-color: #303030 !important;
+}
+
+input[type="submit"]:hover {
+    background-color: #404040 !important;
+}
+}
