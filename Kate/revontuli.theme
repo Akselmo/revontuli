@@ -153,8 +153,8 @@
             "text-color": "#838fff"
         },
         "Import": {
-            "selected-text-color": "#838fff",
-            "text-color": "#838fff"
+            "selected-text-color": "#d970ff",
+            "text-color": "#d970ff"
         },
         "Information": {
             "italic": true,
