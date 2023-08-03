@@ -19,8 +19,8 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=22,22,22
-BackgroundNormal=20,20,20
+BackgroundAlternate=15,15,15
+BackgroundNormal=10,10,10
 DecorationFocus=0,92,153
 DecorationHover=0,76,153
 ForegroundActive=51,255,255
@@ -33,8 +33,8 @@ ForegroundPositive=95,255,51
 ForegroundVisited=131,143,255
 
 [Colors:Complementary]
-BackgroundAlternate=10,10,10
-BackgroundNormal=13,13,13
+BackgroundAlternate=0,0,0
+BackgroundNormal=5,5,5
 DecorationFocus=0,92,153
 DecorationHover=0,76,153
 ForegroundActive=51,255,255
@@ -47,8 +47,8 @@ ForegroundPositive=95,255,51
 ForegroundVisited=131,143,255
 
 [Colors:Header]
-BackgroundAlternate=10,10,10
-BackgroundNormal=13,13,13
+BackgroundAlternate=0,0,0
+BackgroundNormal=5,5,5
 DecorationFocus=0,92,153
 DecorationHover=0,76,153
 ForegroundActive=51,255,255
@@ -62,7 +62,7 @@ ForegroundVisited=131,148,255
 
 [Colors:Header][Inactive]
 BackgroundAlternate=32,32,32
-BackgroundNormal=13,13,13
+BackgroundNormal=5,5,5
 DecorationFocus=33,199,202
 DecorationHover=33,199,202
 ForegroundActive=33,199,202
@@ -89,8 +89,8 @@ ForegroundPositive=95,255,51
 ForegroundVisited=129,146,255
 
 [Colors:Tooltip]
-BackgroundAlternate=13,13,13
-BackgroundNormal=13,13,13
+BackgroundAlternate=5,5,5
+BackgroundNormal=5,5,5
 DecorationFocus=0,92,153
 DecorationHover=0,76,153
 ForegroundActive=51,255,255
@@ -103,8 +103,8 @@ ForegroundPositive=95,255,51
 ForegroundVisited=131,143,255
 
 [Colors:View]
-BackgroundAlternate=13,13,13
-BackgroundNormal=10,10,10
+BackgroundAlternate=5,5,5
+BackgroundNormal=0,0,0
 DecorationFocus=0,92,153
 DecorationHover=0,76,153
 ForegroundActive=51,255,255
@@ -117,8 +117,8 @@ ForegroundPositive=95,255,51
 ForegroundVisited=131,143,255
 
 [Colors:Window]
-BackgroundAlternate=13,13,13
-BackgroundNormal=13,13,13
+BackgroundAlternate=5,5,5
+BackgroundNormal=5,5,5
 DecorationFocus=0,92,153
 DecorationHover=0,76,153
 ForegroundActive=51,255,255
@@ -133,6 +133,7 @@ ForegroundVisited=131,143,255
 [General]
 ColorScheme=RevontuliNight
 Name=RevontuliNight
+TintFactor=0.15
 TitlebarIsAccentColored=false
 shadeSortColumn=true
 
@@ -140,9 +141,9 @@ shadeSortColumn=true
 contrast=5
 
 [WM]
-activeBackground=10,10,10
+activeBackground=0,0,0
 activeBlend=255,255,255
 activeForeground=255,255,255
-inactiveBackground=10,10,10
+inactiveBackground=0,0,0
 inactiveBlend=159,159,159
 inactiveForeground=159,159,159

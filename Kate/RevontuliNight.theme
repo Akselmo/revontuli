@@ -43,12 +43,12 @@
         }
     },
     "editor-colors": {
-        "BackgroundColor": "#0a0a0a",
+        "BackgroundColor": "#000000",
         "BracketMatching": "#552c64",
-        "CodeFolding": "#000000",
-        "CurrentLine": "#0d0d0d",
+        "CodeFolding": "#0a0a0a",
+        "CurrentLine": "#050505",
         "CurrentLineNumber": "#33ffa0",
-        "IconBorder": "#090909",
+        "IconBorder": "#000000",
         "IndentationLine": "#5d5d5d",
         "LineNumbers": "#bfbfbf",
         "MarkBookmark": "#33aaff",
@@ -70,7 +70,7 @@
         "TemplatePlaceholder": "#36911d",
         "TemplateReadOnlyPlaceholder": "#a1202b",
         "TextSelection": "#144364",
-        "WordWrapMarker": "#1e1e1e"
+        "WordWrapMarker": "#0f0f0f"
     },
     "metadata": {
         "name": "RevontuliNight",
