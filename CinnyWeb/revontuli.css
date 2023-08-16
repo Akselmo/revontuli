@@ -1,0 +1,21 @@
+@-moz-document domain("cinny.in") {
+  .dark-theme {
+    --bg-surface: #2b2b2b;
+    --bg-surface-low: #202020;
+    --bg-surface-extra-low: #181818;
+    --bg-surface-border: #606060;
+    --tc-surface-normal: #ffffff;
+    --tc-code: #d970ff;
+    --tc-link: #33aaff;
+    --bg-ping: #33ffa0;
+    --bg-ping-hover: #33ffa080;
+    --bg-positive: #5fff33;
+    --bg-caution: #ffe033;
+    --bg-danger: #ff3344;
+  }
+
+  .room-category .room-selector {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
