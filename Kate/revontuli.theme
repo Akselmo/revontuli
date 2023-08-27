@@ -43,7 +43,7 @@
         }
     },
     "editor-colors": {
-        "BackgroundColor": "#1e1e1e",
+        "BackgroundColor": "#191919",
         "BracketMatching": "#552c64",
         "CodeFolding": "#141414",
         "CurrentLine": "#1b1b1b",
