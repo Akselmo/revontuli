@@ -1,8 +1,8 @@
 @-moz-document domain("cinny.in") {
 .dark-theme {
-    --bg-surface: #252525;
-    --bg-surface-low: #1f1f1f;
-    --bg-surface-extra-low: #181818;
+    --bg-surface: #1f1f1f;
+    --bg-surface-low: #181818;
+    --bg-surface-extra-low: #131313;
     --bg-surface-border: #434343;
     --tc-surface-normal: #ffffff;
     --tc-code: #d970ff;
