@@ -1,9 +1,9 @@
 @-moz-document domain("cinny.in") {
 .dark-theme {
-    --bg-surface: #2b2b2b;
-    --bg-surface-low: #202020;
+    --bg-surface: #252525;
+    --bg-surface-low: #1f1f1f;
     --bg-surface-extra-low: #181818;
-    --bg-surface-border: #606060;
+    --bg-surface-border: #434343;
     --tc-surface-normal: #ffffff;
     --tc-code: #d970ff;
     --tc-link: #33aaff;
@@ -46,9 +46,6 @@ code {
     background-color: var(--bg-surface-low);
 }
 
-.message__body code {
-    padding: 1% !important;
-}
 
 .notification-badge {
     min-width: 16px;
