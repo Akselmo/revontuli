@@ -36,6 +36,7 @@ distinction in parts where it is important.
 | <span style="color:#9f9f9f">█████</span> | `#9f9f9f` | Inactive text        |
 | <span style="color:#33ffff">█████</span> | `#33ffff` | Active text          |
 | <span style="color:#33aaff">█████</span> | `#33aaff` | Link text            |
+| <span style="color:#005999">█████</span> | `#005999` | Selection text       |
 | <span style="color:#838fff">█████</span> | `#838fff` | Visited text         |
 | <span style="color:#ff3344">█████</span> | `#ff3344` | Negative text        |
 | <span style="color:#ff9233">█████</span> | `#ff9233` | Neutral text         |
