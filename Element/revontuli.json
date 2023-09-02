@@ -8,6 +8,7 @@
 	"colors": {
 		"accent-color": "#33aaff",
 		"accent": "#0078CD",
+		"alert": "#33aaff",
 		"primary-color": "#33aaff",
 		"warning-color": "#ff3344",
 		"sidebar-color": "#141414",
