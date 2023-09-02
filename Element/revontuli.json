@@ -1,0 +1,26 @@
+{
+	"name": "Revontuli dark theme",
+	"is_dark": true,
+	"fonts": {
+		"general": "'IBM Plex Sans', sans",
+		"monospace": "'IBM Plex Mono', monospace"
+	},
+	"colors": {
+		"accent-color": "#33ffff",
+		"primary-color": "#33aaff",
+		"warning-color": "#ff3344",
+		"sidebar-color": "#151515",
+		"roomlist-background-color": "#151515",
+		"roomlist-text-color": "#ffffff",
+		"roomlist-text-secondary-color": "#9f9f9f",
+		"roomlist-highlights-color": "#202020",
+		"roomlist-separator-color": "#404040",
+		"timeline-background-color": "#1f1f1f",
+		"timeline-text-color": "#FFFFFF",
+		"secondary-content": "#FFFFFF",
+		"tertiary-content": "#FFFFFF",
+		"timeline-text-secondary-color": "#9f9f9f",
+		"timeline-highlights-color": "#202020",
+		"reaction-row-button-selected-bg-color": "#838fff"
+	}
+}
