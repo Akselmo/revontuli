@@ -7,10 +7,10 @@
     },
     "colors": {
         "accent-color": "#33aaff",
-        "accent": "#0078CD",
+        "accent": "#0060a5",
         "primary-color": "#33aaff",
         "warning-color": "#ff3344",
-        "alert": "#33aaff",
+        "alert": "#d95705",
         "sidebar-color": "#141414",
         "roomlist-background-color": "#141414",
         "roomlist-text-color": "#ffffff",
