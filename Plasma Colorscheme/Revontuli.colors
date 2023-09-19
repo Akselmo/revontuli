@@ -103,7 +103,7 @@ ForegroundPositive=95,255,51
 ForegroundVisited=131,143,255
 
 [Colors:View]
-BackgroundAlternate=25,25,25
+BackgroundAlternate=21,21,21
 BackgroundNormal=25,25,25
 DecorationFocus=0,117,190
 DecorationHover=0,80,160
@@ -137,12 +137,12 @@ TitlebarIsAccentColored=false
 shadeSortColumn=true
 
 [KDE]
-contrast=9
+contrast=6
 
 [WM]
 activeBackground=32,32,32
 activeBlend=255,255,255
 activeForeground=255,255,255
-inactiveBackground=32,32,32
+inactiveBackground=31,31,31
 inactiveBlend=159,159,159
 inactiveForeground=159,159,159
