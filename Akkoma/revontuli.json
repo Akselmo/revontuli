@@ -5,31 +5,40 @@
     "shadows": {
       "panel": [
         {
+          "color": "#505050",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": 1,
+          "inset": false,
+          "alpha": 0.6
+        },
+        {
           "color": "#000000",
-          "x": 1,
-          "y": "4",
-          "blur": 4,
-          "spread": 0,
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": 2,
           "alpha": 0.6
         }
       ],
       "topBar": [
         {
+          "color": "#000000",
           "x": 0,
           "y": 0,
           "blur": 4,
           "spread": 0,
-          "color": "#000000",
           "alpha": 0.6
         }
       ],
       "popup": [
         {
+          "color": "#000000",
           "x": 2,
           "y": 2,
           "blur": 3,
           "spread": 0,
-          "color": "#000000",
           "alpha": 0.5
         }
       ],
@@ -47,70 +56,61 @@
       "panelHeader": [],
       "button": [
         {
-          "color": "#33ffa0",
+          "color": "#505050",
           "x": 0,
           "y": "0",
           "blur": "0",
           "spread": "1",
           "alpha": "0.4"
+        },
+        {
+          "color": "#000000",
+          "x": 0,
+          "y": "1",
+          "blur": "0",
+          "spread": "1",
+          "inset": false,
+          "alpha": "0.4"
         }
       ],
       "buttonHover": [
         {
-          "color": "#33ffa0",
+          "color": "#33aaff",
           "x": 0,
-          "y": "0",
-          "blur": "0",
-          "spread": "2",
-          "alpha": 1
-        }
-      ],
-      "buttonPressed": [
-        {
-          "color": "#000000",
-          "x": 0,
-          "y": 1,
-          "blur": 0,
+          "y": 0,
+          "blur": "1",
           "spread": 0,
-          "alpha": 0.2,
-          "inset": true
+          "alpha": 1
         },
         {
-          "color": "#FFFFFF",
+          "color": "#000000",
           "x": 0,
           "y": -1,
           "blur": 0,
           "spread": 0,
           "alpha": 0.2,
+          "inset": true
+        }
+      ],
+      "buttonPressed": [
+        {
+          "color": "#33aaff",
+          "x": 0,
+          "y": "0",
+          "blur": "0",
+          "spread": 1,
+          "alpha": "0.8",
           "inset": true
         }
       ],
       "input": [
         {
-          "x": 0,
-          "y": 1,
-          "blur": 0,
-          "spread": 0,
-          "color": "#000000",
-          "alpha": 0.2,
-          "inset": true
-        },
-        {
-          "x": 0,
-          "y": -1,
-          "blur": 0,
-          "spread": 0,
-          "color": "#FFFFFF",
-          "alpha": 0.2,
-          "inset": true
-        },
-        {
+          "color": "#404040",
           "x": 0,
           "y": 0,
-          "blur": 2,
+          "blur": 0,
+          "spread": 1,
           "inset": true,
-          "spread": 0,
-          "color": "#000000",
           "alpha": 1
         }
       ]
@@ -123,7 +123,7 @@
       "cGreen": "#5fff33",
       "cOrange": "#ff9233",
       "cBlue": "#33aaff",
-      "accent": "#33ffff",
+      "accent": "#33aaff",
       "link": "#33aaff",
       "text": "#ffffff",
       "badgeNotification": "#ff3344",
@@ -144,7 +144,7 @@
       "alertErrorText": "#ffffff",
       "alertPopupError": "#ff3344",
       "alertPopupErrorText": "#000000",
-      "panel": "#191919",
+      "panel": "#1f1f1f",
       "panelText": "#ffffff",
       "alertNeutralPanelText": "#000000",
       "alertSuccessPanelText": "#000000",
@@ -153,66 +153,66 @@
       "fgText": "#ffffff",
       "topBar": "#1f1f1f",
       "topBarText": "#ffffff",
-      "input": "#090909",
+      "input": "#111111",
       "inputTopbarText": "#ffffff",
       "inputPanelText": "#ffffff",
       "inputText": "#ffffff",
-      "btn": "#121212",
+      "btn": "#252525",
       "btnText": "#ffffff",
       "btnTopBarText": "#ffffff",
-      "btnDisabled": "#181818",
-      "btnDisabledTopBarText": "#525252",
+      "btnDisabled": "#1c1c1c",
+      "btnDisabledTopBarText": "#555555",
       "btnPanelText": "#ffffff",
-      "btnDisabledPanelText": "#525252",
-      "btnDisabledText": "#525252",
-      "btnToggled": "#454545",
+      "btnDisabledPanelText": "#555555",
+      "btnDisabledText": "#555555",
+      "btnToggled": "#595959",
       "btnToggledTopBarText": "#ffffff",
       "btnToggledPanelText": "#ffffff",
       "btnToggledText": "#ffffff",
-      "btnPressed": "#33ffff",
-      "btnPressedTopBarText": "#000000",
-      "btnPressedTopBar": "#33ffff",
-      "btnPressedPanelText": "#000000",
-      "btnPressedPanel": "#33ffff",
-      "btnPressedText": "#000000",
+      "btnPressed": "#252525",
+      "btnPressedTopBarText": "#ffffff",
+      "btnPressedTopBar": "#252525",
+      "btnPressedPanelText": "#ffffff",
+      "btnPressedPanel": "#252525",
+      "btnPressedText": "#ffffff",
       "tabActiveText": "#ffffff",
       "tabText": "#ffffff",
-      "tab": "#121212",
+      "tab": "#252525",
       "fgLink": "#33aaff",
-      "topBarLink": "#ffffff",
+      "topBarLink": "#33aaff",
       "panelLink": "#33aaff",
       "panelFaint": "#ffffff",
       "icon": "#8c8c8c",
-      "poll": "#247575",
+      "poll": "#245375",
       "pollText": "#ffffff",
-      "border": "#303030",
+      "border": "#252525",
       "postCyantext": "#33aaff",
       "postGreentext": "#5fff33",
       "postLink": "#33aaff",
       "lightText": "#ffffff",
       "popover": "#191919",
-      "selectedMenuPopover": "#33ffff",
+      "selectedMenuPopover": "#262626",
       "highlight": "#262626",
       "highlightText": "#ffffff",
-      "selectedMenu": "#191919",
-      "selectedMenuText": "#33ffaa",
-      "selectedMenuPopoverIcon": "#33ffd5",
+      "selectedMenu": "#262626",
+      "selectedMenuText": "#ffffff",
+      "selectedMenuPopoverIcon": "#939393",
       "highlightLink": "#33aaff",
       "selectedMenuLink": "#33aaff",
-      "selectedMenuPopoverLink": "#0077cc",
-      "selectedMenuPopoverText": "#000000",
+      "selectedMenuPopoverLink": "#33aaff",
+      "selectedMenuPopoverText": "#ffffff",
       "faintLink": "#33aaff",
       "highlightFaintLink": "#33aaff",
       "selectedMenuFaintLink": "#33aaff",
-      "selectedMenuPopoverFaintLink": "#0077cc",
+      "selectedMenuPopoverFaintLink": "#33aaff",
       "faint": "#ffffff",
       "highlightFaintText": "#ffffff",
       "selectedMenuFaintText": "#ffffff",
-      "selectedMenuPopoverFaintText": "#000000",
+      "selectedMenuPopoverFaintText": "#ffffff",
       "highlightLightText": "#ffffff",
       "selectedMenuLightText": "#ffffff",
-      "selectedMenuPopoverLightText": "#000000",
-      "selectedMenuIcon": "#268c62",
+      "selectedMenuPopoverLightText": "#ffffff",
+      "selectedMenuIcon": "#939393",
       "selectedPost": "#262626",
       "selectedPostText": "#ffffff",
       "selectedPostIcon": "#939393",
@@ -242,7 +242,7 @@
       "bg": 1,
       "alert": 0.5,
       "alertPopup": 0.95,
-      "panel": 0,
+      "panel": 1,
       "input": 0.5,
       "btn": 1,
       "faint": 0.5,
@@ -251,24 +251,24 @@
       "profileTint": 0.5
     },
     "radii": {
-      "btn": "6",
-      "input": "4",
-      "checkbox": "5",
-      "panel": "4",
-      "avatar": "5",
-      "avatarAlt": "5",
-      "tooltip": "5",
-      "attachment": "4"
+      "btn": "3",
+      "input": "3",
+      "checkbox": "3",
+      "panel": "5",
+      "avatar": "3",
+      "avatarAlt": "3",
+      "tooltip": "3",
+      "attachment": "3"
     },
     "fonts": {
       "interface": {
         "family": "sans-serif"
       },
       "input": {
-        "family": "inherit"
+        "family": "sans-serif"
       },
       "post": {
-        "family": "inherit"
+        "family": "sans-serif"
       },
       "postCode": {
         "family": "monospace"
@@ -277,14 +277,36 @@
   },
   "source": {
     "themeEngineVersion": 3,
-    "fonts": {},
+    "fonts": {
+      "interface": {
+        "family": "sans-serif"
+      },
+      "input": {
+        "family": "sans-serif"
+      },
+      "post": {
+        "family": "sans-serif"
+      },
+      "postCode": {
+        "family": "monospace"
+      }
+    },
     "shadows": {
       "panel": [
         {
-          "x": 1,
-          "y": "4",
-          "blur": 4,
-          "spread": 0,
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": 1,
+          "inset": false,
+          "color": "#505050",
+          "alpha": 0.6
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": 2,
           "color": "#000000",
           "alpha": 0.6
         }
@@ -295,38 +317,78 @@
           "y": "0",
           "blur": "0",
           "spread": "1",
-          "color": "#33ffa0",
+          "color": "#505050",
           "alpha": "0.4"
-        }
-      ],
-      "buttonHover": [
+        },
         {
           "x": 0,
-          "y": "0",
+          "y": "1",
           "blur": "0",
-          "spread": "2",
-          "color": "#33ffa0",
-          "alpha": 1
+          "spread": "1",
+          "inset": false,
+          "color": "#000000",
+          "alpha": "0.4"
         }
       ],
       "buttonPressed": [
         {
           "x": 0,
-          "y": 1,
-          "blur": 0,
-          "spread": 0,
-          "color": "#000000",
-          "alpha": 0.2,
+          "y": "0",
+          "blur": "0",
+          "spread": 1,
+          "color": "#33aaff",
+          "alpha": "0.8",
           "inset": true
+        }
+      ],
+      "buttonHover": [
+        {
+          "x": 0,
+          "y": 0,
+          "blur": "1",
+          "spread": 0,
+          "color": "#33aaff",
+          "alpha": 1
         },
         {
           "x": 0,
           "y": -1,
           "blur": 0,
           "spread": 0,
-          "color": "#FFFFFF",
+          "color": "#000000",
           "alpha": 0.2,
           "inset": true
+        }
+      ],
+      "popup": [
+        {
+          "x": 2,
+          "y": 2,
+          "blur": 3,
+          "spread": 0,
+          "color": "#000000",
+          "alpha": 0.5
+        }
+      ],
+      "topBar": [
+        {
+          "x": 0,
+          "y": 0,
+          "blur": 4,
+          "spread": 0,
+          "color": "#000000",
+          "alpha": 0.6
+        }
+      ],
+      "input": [
+        {
+          "x": 0,
+          "y": 0,
+          "blur": 0,
+          "spread": 1,
+          "inset": true,
+          "color": "#404040",
+          "alpha": 1
         }
       ]
     },
@@ -336,30 +398,22 @@
       "fg": "#1f1f1f",
       "text": "#ffffff",
       "link": "#33aaff",
-      "accent": "#33ffff",
       "cBlue": "#33aaff",
       "cRed": "#ff3344",
       "cGreen": "#5fff33",
       "cOrange": "#ff9233",
-      "selectedMenu": "#191919",
-      "selectedMenuText": "#33ffaa",
-      "selectedMenuPopover": "--accent",
-      "border": "#303030",
-      "panel": "transparent",
-      "topBarLink": "--topBarText",
-      "btn": "--bg, -3",
-      "btnPressed": "--accent",
-      "input": "--bg,-6.47"
+      "btn": "#252525",
+      "input": "#111111"
     },
     "radii": {
-      "btn": "6",
-      "input": "4",
-      "checkbox": "5",
-      "panel": "4",
-      "avatar": "5",
-      "avatarAlt": "5",
-      "tooltip": "5",
-      "attachment": "4"
+      "btn": "3",
+      "input": "3",
+      "checkbox": "3",
+      "panel": "5",
+      "avatar": "3",
+      "avatarAlt": "3",
+      "tooltip": "3",
+      "attachment": "3"
     }
   }
 }
