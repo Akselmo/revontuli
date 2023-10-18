@@ -7,15 +7,15 @@
     },
     "colors": {
         "accent-color": "#33aaff",
-        "accent": "#0060a5",
+        "accent": "#0080d6",
         "primary-color": "#33aaff",
         "warning-color": "#ff3344",
         "alert": "#d95705",
-        "sidebar-color": "#141414",
-        "roomlist-background-color": "#141414",
+        "sidebar-color": "#1f1f1f",
+        "roomlist-background-color": "#1f1f1f",
         "roomlist-text-color": "#ffffff",
-        "roomlist-text-secondary-color": "#9f9f9f",
-        "roomlist-highlights-color": "252525",
+        "roomlist-text-secondary-color": "#f0f0f0",
+        "roomlist-highlights-color": "#303030",
         "roomlist-separator-color": "#404040",
         "timeline-background-color": "#191919",
         "timeline-text-color": "#FFFFFF",
@@ -24,7 +24,7 @@
         "quinary-content": "#101010",
         "timeline-text-secondary-color": "#9f9f9f",
         "timeline-highlights-color": "#202020",
-        "reaction-row-button-selected-bg-color": "#838fff",
-        "togglesw-off-color": "#101010"
+        "reaction-row-button-selected-bg-color": "#30345d",
+        "togglesw-off-color": "#0a0a0a"
     }
 }
