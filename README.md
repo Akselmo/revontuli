@@ -53,6 +53,7 @@ distinction in parts where it is important.
 | ---------------------------------------- | --------- | -------------------- |
 | <span style="color:#f2f2f2">█████</span> | `#f2f2f2` | Normal Background    |
 | <span style="color:#B2b2b2">█████</span> | `#B2b2b2` | Alternate Background 1 |
+| <span style="color:#D9D9D9">█████</span> | `#D9D9D9` | Buttons Background|
 | <span style="color:#909090">█████</span> | `#909090` | Alternate Background 2 |
 | <span style="color:#000000">█████</span> | `#000000` | Normal text          |
 | <span style="color:#2b2b2b">█████</span> | `#2b2b2b` | Inactive text        |
