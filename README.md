@@ -32,7 +32,7 @@ distinction in parts where it is important.
 | <span style="color:#1f1f1f">█████</span> | `#1f1f1f` | Normal Background    |
 | <span style="color:#191919">█████</span> | `#191919` | View Background    |
 | <span style="color:#202020">█████</span> | `#202020` | Alternate Background 1 |
-| <span style="color:#2d2d2d">█████</span> | `#2d2d2d` | Buttons Background|
+| <span style="color:#252525">█████</span> | `#252525` | Buttons Background|
 | <span style="color:#404040">█████</span> | `#404040` | Alternate Background 2 |
 | <span style="color:#ffffff">█████</span> | `#ffffff` | Normal text          |
 | <span style="color:#9f9f9f">█████</span> | `#9f9f9f` | Inactive text        |
