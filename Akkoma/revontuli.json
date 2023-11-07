@@ -1,74 +1,83 @@
 {
   "_pleroma_theme_version": 2,
-  "name":"Revontuli",
+  "name": "Revontuli",
   "theme": {
     "themeEngineVersion": 3,
     "shadows": {
       "panel": [
         {
-          "color": "#505050",
-          "x": "0",
-          "y": "0",
+          "color": "#575757",
+          "alpha": "1",
           "blur": "0",
-          "spread": 1,
           "inset": false,
-          "alpha": 0.6
+          "spread": 1,
+          "x": "0",
+          "y": "0"
         },
         {
           "color": "#000000",
-          "x": "0",
-          "y": "0",
+          "alpha": "0",
           "blur": "0",
           "spread": 2,
-          "alpha": 0.6
+          "x": "0",
+          "y": "0"
         },
         {
           "color": "#000000",
-          "x": "0",
-          "y": "0",
+          "alpha": 0.6,
           "blur": "20",
-          "spread": "1",
           "inset": false,
-          "alpha": 0.6
+          "spread": "1",
+          "x": "0",
+          "y": "0"
         }
       ],
       "topBar": [
         {
-          "color": "#505050",
-          "x": 0,
-          "y": 0,
+          "color": "#575757",
+          "alpha": "1",
           "blur": 0,
+          "inset": false,
           "spread": 1,
-          "alpha": 0.6,
-          "inset": false
+          "x": 0,
+          "y": 0
         },
         {
           "color": "#000000",
-          "x": 0,
-          "y": 0,
+          "alpha": "0",
           "blur": 0,
+          "inset": false,
           "spread": 2,
-          "inset": false,
-          "alpha": "1"
+          "x": 0,
+          "y": 0
         },
         {
           "color": "#000000",
-          "x": 0,
-          "y": "0",
+          "alpha": 0.6,
           "blur": "20",
-          "spread": 1,
           "inset": false,
-          "alpha": 0.6
+          "spread": 1,
+          "x": 0,
+          "y": "0"
         }
       ],
       "popup": [
         {
           "color": "#000000",
-          "x": 2,
-          "y": 2,
+          "alpha": 0.5,
           "blur": 3,
           "spread": 0,
-          "alpha": 0.5
+          "x": 2,
+          "y": 2
+        },
+        {
+          "color": "#575757",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": 1,
+          "inset": true,
+          "alpha": "1"
         }
       ],
       "avatar": [
@@ -85,62 +94,62 @@
       "panelHeader": [],
       "button": [
         {
-          "color": "#505050",
-          "x": 0,
-          "y": "0",
+          "color": "#575757",
+          "alpha": "1",
           "blur": "0",
           "spread": "1",
-          "alpha": "0.4"
+          "x": 0,
+          "y": "0"
         },
         {
           "color": "#000000",
-          "x": 0,
-          "y": "1",
+          "alpha": "0.4",
           "blur": "0",
-          "spread": "1",
           "inset": false,
-          "alpha": "0.4"
+          "spread": "1",
+          "x": 0,
+          "y": "1"
         }
       ],
       "buttonHover": [
         {
           "color": "#33aaff",
+          "alpha": 1,
+          "blur": 0,
+          "spread": 1,
           "x": 0,
-          "y": 0,
-          "blur": "1",
-          "spread": 0,
-          "alpha": 1
+          "y": 0
         },
         {
           "color": "#000000",
-          "x": 0,
-          "y": -1,
-          "blur": 0,
-          "spread": 0,
           "alpha": 0.2,
-          "inset": true
+          "blur": 0,
+          "inset": true,
+          "spread": 0,
+          "x": 0,
+          "y": -1
         }
       ],
       "buttonPressed": [
         {
           "color": "#33aaff",
-          "x": 0,
-          "y": "0",
-          "blur": "0",
-          "spread": 1,
           "alpha": "0.8",
-          "inset": true
+          "blur": 2,
+          "inset": true,
+          "spread": 1,
+          "x": 0,
+          "y": "0"
         }
       ],
       "input": [
         {
-          "color": "#404040",
-          "x": 0,
-          "y": 0,
+          "color": "#575757",
+          "alpha": 1,
           "blur": 0,
-          "spread": 1,
           "inset": true,
-          "alpha": 1
+          "spread": 1,
+          "x": 0,
+          "y": 0
         }
       ]
     },
@@ -321,131 +330,140 @@
       }
     },
     "shadows": {
-      "panel": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": 1,
-          "inset": false,
-          "color": "#505050",
-          "alpha": 0.6
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": 2,
-          "color": "#000000",
-          "alpha": 0.6
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "20",
-          "spread": "1",
-          "inset": false,
-          "color": "#000000",
-          "alpha": 0.6
-        }
-      ],
       "button": [
         {
-          "x": 0,
-          "y": "0",
+          "alpha": "1",
           "blur": "0",
+          "color": "#575757",
           "spread": "1",
-          "color": "#505050",
-          "alpha": "0.4"
+          "x": 0,
+          "y": "0"
         },
         {
-          "x": 0,
-          "y": "1",
+          "alpha": "0.4",
           "blur": "0",
-          "spread": "1",
-          "inset": false,
           "color": "#000000",
-          "alpha": "0.4"
-        }
-      ],
-      "buttonPressed": [
-        {
+          "inset": false,
+          "spread": "1",
           "x": 0,
-          "y": "0",
-          "blur": "0",
-          "spread": 1,
-          "color": "#33aaff",
-          "alpha": "0.8",
-          "inset": true
+          "y": "1"
         }
       ],
       "buttonHover": [
         {
-          "x": 0,
-          "y": 0,
-          "blur": "1",
-          "spread": 0,
+          "alpha": 1,
+          "blur": 0,
           "color": "#33aaff",
-          "alpha": 1
+          "spread": 1,
+          "x": 0,
+          "y": 0
         },
         {
-          "x": 0,
-          "y": -1,
-          "blur": 0,
-          "spread": 0,
-          "color": "#000000",
           "alpha": 0.2,
-          "inset": true
-        }
-      ],
-      "popup": [
-        {
-          "x": 2,
-          "y": 2,
-          "blur": 3,
+          "blur": 0,
+          "color": "#000000",
+          "inset": true,
           "spread": 0,
-          "color": "#000000",
-          "alpha": 0.5
+          "x": 0,
+          "y": -1
         }
       ],
-      "topBar": [
+      "buttonPressed": [
         {
-          "x": 0,
-          "y": 0,
-          "blur": 0,
+          "alpha": "0.8",
+          "blur": 2,
+          "color": "#33aaff",
+          "inset": true,
           "spread": 1,
-          "color": "#505050",
-          "alpha": 0.6,
-          "inset": false
-        },
-        {
           "x": 0,
-          "y": 0,
-          "blur": 0,
-          "spread": 2,
-          "inset": false,
-          "color": "#000000",
-          "alpha": "1"
-        },
-        {
-          "x": 0,
-          "y": "0",
-          "blur": "20",
-          "spread": 1,
-          "inset": false,
-          "color": "#000000",
-          "alpha": 0.6
+          "y": "0"
         }
       ],
       "input": [
         {
-          "x": 0,
-          "y": 0,
+          "alpha": 1,
           "blur": 0,
+          "color": "#575757",
+          "inset": true,
+          "spread": 1,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "panel": [
+        {
+          "alpha": "1",
+          "blur": "0",
+          "color": "#575757",
+          "inset": false,
+          "spread": 1,
+          "x": "0",
+          "y": "0"
+        },
+        {
+          "alpha": "0",
+          "blur": "0",
+          "color": "#000000",
+          "spread": 2,
+          "x": "0",
+          "y": "0"
+        },
+        {
+          "alpha": 0.6,
+          "blur": "20",
+          "color": "#000000",
+          "inset": false,
+          "spread": "1",
+          "x": "0",
+          "y": "0"
+        }
+      ],
+      "popup": [
+        {
+          "alpha": 0.5,
+          "blur": 3,
+          "color": "#000000",
+          "spread": 0,
+          "x": 2,
+          "y": 2
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
           "spread": 1,
           "inset": true,
-          "color": "#404040",
-          "alpha": 1
+          "color": "#575757",
+          "alpha": "1"
+        }
+      ],
+      "topBar": [
+        {
+          "alpha": "1",
+          "blur": 0,
+          "color": "#575757",
+          "inset": false,
+          "spread": 1,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "alpha": "0",
+          "blur": 0,
+          "color": "#000000",
+          "inset": false,
+          "spread": 2,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "alpha": 0.6,
+          "blur": "20",
+          "color": "#000000",
+          "inset": false,
+          "spread": 1,
+          "x": 0,
+          "y": "0"
         }
       ]
     },
