@@ -1,11 +1,17 @@
 [Background]
 Color=32,32,32
+RandomHueRange=360
+RandomSaturationRange=100
 
 [BackgroundFaint]
 Color=42,42,42
+RandomHueRange=360
+RandomSaturationRange=100
 
 [BackgroundIntense]
 Color=16,16,16
+RandomHueRange=360
+RandomSaturationRange=100
 
 [Color0]
 Color=48,48,48
@@ -14,7 +20,7 @@ Color=48,48,48
 Color=64,64,64
 
 [Color0Intense]
-Color=0,0,0
+Color=90,90,90
 
 [Color1]
 Color=255,51,68
@@ -26,13 +32,13 @@ Color=255,85,99
 Color=230,26,60
 
 [Color2]
-Color=95,255,51
+Color=0,208,0
 
 [Color2Faint]
-Color=122,255,85
+Color=69,208,69
 
 [Color2Intense]
-Color=84,225,45
+Color=0,229,0
 
 [Color3]
 Color=255,146,51
@@ -81,12 +87,18 @@ Color=156,156,156
 
 [Foreground]
 Color=255,255,255
+RandomHueRange=360
+RandomSaturationRange=100
 
 [ForegroundFaint]
 Color=255,255,255
+RandomHueRange=360
+RandomSaturationRange=100
 
 [ForegroundIntense]
 Color=255,255,255
+RandomHueRange=360
+RandomSaturationRange=100
 
 [General]
 Anchor=0.5,0.5
