@@ -78,8 +78,8 @@
     },
     "text-styles": {
         "Alert": {
-            "selected-text-color": "#00d000",
-            "text-color": "#00d000",
+            "selected-text-color": "#00ee00",
+            "text-color": "#00ee00",
             "underline": true
         },
         "Annotation": {
@@ -88,8 +88,8 @@
             "text-color": "#838fff"
         },
         "Attribute": {
-            "selected-text-color": "#00d000",
-            "text-color": "#00d000"
+            "selected-text-color": "#00ee00",
+            "text-color": "#00ee00"
         },
         "BaseN": {
             "selected-text-color": "#ff9233",
@@ -180,8 +180,8 @@
             "text-color": "#5fff33"
         },
         "Preprocessor": {
-            "selected-text-color": "#00d000",
-            "text-color": "#00d000"
+            "selected-text-color": "#00ee00",
+            "text-color": "#00ee00"
         },
         "RegionMarker": {
             "italic": true,
@@ -197,8 +197,8 @@
             "text-color": "#ffe033"
         },
         "String": {
-            "selected-text-color": "#00d000",
-            "text-color": "#00d000"
+            "selected-text-color": "#00ee00",
+            "text-color": "#00ee00"
         },
         "Variable": {
             "selected-text-color": "#ff9233",

@@ -32,13 +32,13 @@ Color=255,85,99
 Color=230,26,60
 
 [Color2]
-Color=0,208,0
+Color=0,238,0
 
 [Color2Faint]
 Color=69,208,69
 
 [Color2Intense]
-Color=0,229,0
+Color=0,255,0
 
 [Color3]
 Color=255,146,51
