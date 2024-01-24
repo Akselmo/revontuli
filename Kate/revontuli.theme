@@ -88,16 +88,16 @@
             "text-color": "#838fff"
         },
         "Attribute": {
-            "selected-text-color": "#00ee00",
-            "text-color": "#00ee00"
+            "selected-text-color": "#33aaff",
+            "text-color": "#33aaff"
         },
         "BaseN": {
             "selected-text-color": "#ff9233",
             "text-color": "#ff9233"
         },
         "BuiltIn": {
-            "selected-text-color": "#838fff",
-            "text-color": "#838fff"
+            "selected-text-color": "#33ffff",
+            "text-color": "#33ffff"
         },
         "Char": {
             "selected-text-color": "#33aaff",
@@ -140,8 +140,8 @@
         },
         "Extension": {
             "bold": true,
-            "selected-text-color": "#d970ff",
-            "text-color": "#d970ff"
+            "selected-text-color": "#838fff",
+            "text-color": "#838fff"
         },
         "Float": {
             "selected-text-color": "#ff9233",
@@ -171,8 +171,8 @@
             "text-color": "#ffffff"
         },
         "Operator": {
-            "selected-text-color": "#33ffff",
-            "text-color": "#33ffff"
+            "selected-text-color": "#33ffa0",
+            "text-color": "#33ffa0"
         },
         "Others": {
             "italic": true,
@@ -180,8 +180,8 @@
             "text-color": "#5fff33"
         },
         "Preprocessor": {
-            "selected-text-color": "#00ee00",
-            "text-color": "#00ee00"
+            "selected-text-color": "#33ffff",
+            "text-color": "#33ffff"
         },
         "RegionMarker": {
             "italic": true,
