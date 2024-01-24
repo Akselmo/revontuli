@@ -4,24 +4,24 @@
 
 "attribute" = { fg = "orange" }
 "comment" = { fg = "light-gray", modifiers = ["italic"] }
-"constant" = { fg = "green" }
+"constant" = { fg = "cyan" }
 "constant.numeric" = { fg = "orange" }
-"constant.builtin" = { fg = "green", modifiers = ["bold"] }
+"constant.builtin" = { fg = "cyan", modifiers = ["bold"] }
 "constant.character.escape" = { fg = "cyan" }
 "constructor" = { fg = "blue" }
 "function" = { fg = "purple", modifiers = ["bold"] }
-"function.builtin" = { fg = "purple" }
-"function.macro" = { fg = "green", modifiers = ["bold"] }
-"function.special" = { fg = "green", modifiers = ["bold"] }
-"keyword" = { fg = "cyan" }
+"function.builtin" = { fg = "cyan" }
+"function.macro" = { fg = "purple", modifiers = ["bold"] }
+"function.special" = { fg = "magenta", modifiers = ["bold"] }
+"keyword" = { fg = "blue" }
 "keyword.control" = { fg = "light-green" }
-"keyword.control.import" = { fg = "green" }
-"keyword.directive" = { fg = "purple" }
+"keyword.control.import" = { fg = "magenta" }
+"keyword.directive" = { fg = "cyan" }
 "label" = { fg = "purple" }
 "namespace" = { fg = "blue", modifiers = ["bold"] }
-"operator" = { fg = "cyan" }
-"punctuation" = { fg = "cyan" }
-"keyword.operator" = { fg = "cyan" }
+"operator" = { fg = "light-green" }
+"punctuation" = { fg = "light-green" }
+"keyword.operator" = { fg = "light-green" }
 "special" = { fg = "blue" }
 "string" = { fg = "green" }
 "type" = { fg = "cyan" }
@@ -108,3 +108,4 @@ faint-gray = "#454545"
 light-gray = "#808080"
 linenr = "#E0E0E0"
 light-green = "#33ffa0"
+magenta = "#d970ff"
