@@ -1,6 +1,6 @@
 [ColorEffects:Disabled]
-Color=96,96,96
-ColorAmount=0.55
+Color=0,0,0
+ColorAmount=0.6000000000000001
 ColorEffect=1
 ContrastAmount=0.65
 ContrastEffect=1
@@ -26,10 +26,10 @@ DecorationHover=0,110,220
 ForegroundActive=51,255,255
 ForegroundInactive=159,159,159
 ForegroundLink=51,170,255
-ForegroundNegative=255,51,68
-ForegroundNeutral=255,146,51
+ForegroundNegative=190,38,51
+ForegroundNeutral=218,122,44
 ForegroundNormal=255,255,255
-ForegroundPositive=0,238,0
+ForegroundPositive=0,177,0
 ForegroundVisited=131,143,255
 
 [Colors:Complementary]
@@ -82,10 +82,10 @@ DecorationHover=0,110,220
 ForegroundActive=51,255,255
 ForegroundInactive=50,50,50
 ForegroundLink=51,173,255
-ForegroundNegative=255,51,68
-ForegroundNeutral=255,146,51
+ForegroundNegative=190,38,51
+ForegroundNeutral=218,122,44
 ForegroundNormal=255,255,255
-ForegroundPositive=0,238,0
+ForegroundPositive=0,177,0
 ForegroundVisited=129,146,255
 
 [Colors:Tooltip]
@@ -96,10 +96,10 @@ DecorationHover=0,110,220
 ForegroundActive=51,255,255
 ForegroundInactive=159,159,159
 ForegroundLink=51,170,255
-ForegroundNegative=255,51,68
-ForegroundNeutral=255,146,51
+ForegroundNegative=190,38,51
+ForegroundNeutral=218,122,44
 ForegroundNormal=255,255,255
-ForegroundPositive=0,238,0
+ForegroundPositive=0,177,0
 ForegroundVisited=131,143,255
 
 [Colors:View]
@@ -110,10 +110,10 @@ DecorationHover=0,110,220
 ForegroundActive=51,255,255
 ForegroundInactive=159,159,159
 ForegroundLink=51,170,255
-ForegroundNegative=255,51,68
-ForegroundNeutral=255,146,51
+ForegroundNegative=190,38,51
+ForegroundNeutral=218,122,44
 ForegroundNormal=255,255,255
-ForegroundPositive=0,238,0
+ForegroundPositive=0,177,0
 ForegroundVisited=131,143,255
 
 [Colors:Window]
@@ -124,25 +124,27 @@ DecorationHover=0,110,220
 ForegroundActive=51,255,255
 ForegroundInactive=159,159,159
 ForegroundLink=51,170,255
-ForegroundNegative=255,51,68
-ForegroundNeutral=255,146,51
+ForegroundNegative=190,38,51
+ForegroundNeutral=218,122,44
 ForegroundNormal=255,255,255
-ForegroundPositive=0,238,0
+ForegroundPositive=0,177,0
 ForegroundVisited=131,143,255
 
 [General]
 ColorScheme=Revontuli
 Name=Revontuli
+TintFactor=0.06
 TitlebarIsAccentColored=false
 shadeSortColumn=true
 
 [KDE]
-contrast=6
+contrast=1
 
 [WM]
 activeBackground=48,48,48
 activeBlend=255,255,255
 activeForeground=255,255,255
+contrast=0
 inactiveBackground=47,47,47
 inactiveBlend=159,159,159
 inactiveForeground=159,159,159
