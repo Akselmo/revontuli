@@ -25,7 +25,7 @@
 "special" = { fg = "blue" }
 "string" = { fg = "green" }
 "type" = { fg = "cyan" }
-"variable" = { fg = "white" }
+"variable" = { fg = "orange" }
 "variable.builtin" = { fg = "orange" }
 "variable.parameter" = { fg = "orange" }
 "variable.other.member" = { fg = "white" }
@@ -69,14 +69,15 @@
 "ui.selection" = { bg = "selection" }
 "ui.cursorline.primary" = { bg = "dark-background" }
 
+"ui.gutter" = {bg="dark-background"}
 "ui.linenr" = { fg = "linenr" }
-"ui.linenr.selected" = { fg = "light-green" }
+"ui.linenr.selected" = { bg = "light-green", fg="background" }
 
 "ui.statusline" = { fg = "white", bg = "light-background" }
 "ui.statusline.inactive" = { fg = "light-gray", bg = "light-background" }
-"ui.statusline.normal" = { fg = "light-background", bg = "purple" }
-"ui.statusline.insert" = { fg = "light-background", bg = "green" }
-"ui.statusline.select" = { fg = "light-background", bg = "cyan" }
+"ui.statusline.normal" = { fg = "light-background", bg = "purple", modifiers = ["bold"] }
+"ui.statusline.insert" = { fg = "light-background", bg = "green" , modifiers = ["bold"] }
+"ui.statusline.select" = { fg = "light-background", bg = "cyan"  , modifiers = ["bold"] }
 "ui.text" = { fg = "white" }
 "ui.text.focus" = { fg = "blue", bg = "gray", modifiers = ["bold"] }
 
@@ -89,6 +90,10 @@
 "ui.menu.selected" = { fg = "background", bg = "blue" }
 "ui.menu.scroll" = { fg = "white", bg = "light-gray" }
 "ui.virtual.inlay-hint" = { fg = "light-gray", bg = "light-background", modifiers = ["italic"] }
+
+"ui.bufferline" = { fg = "gray", bg = "background" }
+"ui.bufferline.active" = { fg = "background", bg = "light-green", modifiers=["bold"] }
+
 
 [palette]
 
