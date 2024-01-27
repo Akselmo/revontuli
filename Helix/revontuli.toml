@@ -91,7 +91,7 @@
 "ui.menu.scroll" = { fg = "white", bg = "light-gray" }
 "ui.virtual.inlay-hint" = { fg = "light-gray", bg = "light-background", modifiers = ["italic"] }
 
-"ui.bufferline" = { fg = "gray", bg = "background" }
+"ui.bufferline" = { fg = "white", bg = "background" }
 "ui.bufferline.active" = { fg = "background", bg = "light-green", modifiers=["bold"] }
 
 
