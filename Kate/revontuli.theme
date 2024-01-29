@@ -88,8 +88,8 @@
             "text-color": "#838fff"
         },
         "Attribute": {
-            "selected-text-color": "#33ffa0",
-            "text-color": "#33ffa0"
+            "selected-text-color": "#838fff",
+            "text-color": "#838fff"
         },
         "BaseN": {
             "selected-text-color": "#ff9233",
@@ -122,8 +122,8 @@
             "text-color": "#33ffa0"
         },
         "DataType": {
-            "selected-text-color": "#33aaff",
-            "text-color": "#33aaff"
+            "selected-text-color": "#33ffff",
+            "text-color": "#33ffff"
         },
         "DecVal": {
             "selected-text-color": "#ff9233",
@@ -139,7 +139,6 @@
             "underline": true
         },
         "Extension": {
-            "bold": true,
             "selected-text-color": "#838fff",
             "text-color": "#838fff"
         },
@@ -180,8 +179,9 @@
             "text-color": "#5fff33"
         },
         "Preprocessor": {
-            "selected-text-color": "#33ffa0",
-            "text-color": "#33ffa0"
+            "bold": true,
+            "selected-text-color": "#00ee00",
+            "text-color": "#00ee00"
         },
         "RegionMarker": {
             "italic": true,
