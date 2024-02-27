@@ -7,7 +7,7 @@
 "constant" = { fg = "cyan" }
 "constant.numeric" = { fg = "orange" }
 "constant.builtin" = { fg = "cyan", modifiers = ["bold"] }
-"constant.character.escape" = { fg = "cyan" }
+"constant.character.escape" = { fg = "yellow" }
 "constructor" = { fg = "blue" }
 "function" = { fg = "purple", modifiers = ["bold"] }
 "function.builtin" = { fg = "cyan" }
@@ -16,7 +16,7 @@
 "keyword" = { fg = "blue" }
 "keyword.control" = { fg = "light-green" }
 "keyword.control.import" = { fg = "magenta" }
-"keyword.directive" = { fg = "cyan" }
+"keyword.directive" = { fg = "green", modifiers=["bold"] }
 "label" = { fg = "purple" }
 "namespace" = { fg = "blue", modifiers = ["bold"] }
 "operator" = { fg = "light-green" }
@@ -25,10 +25,12 @@
 "special" = { fg = "blue" }
 "string" = { fg = "green" }
 "type" = { fg = "cyan" }
-"variable" = { fg = "orange" }
+"variable" = { fg = "white" }
 "variable.builtin" = { fg = "orange" }
 "variable.parameter" = { fg = "orange" }
 "variable.other.member" = { fg = "white" }
+"string.special" = { fg = "yellow"}
+"string.symbol" = { fg = "magenta"}
 
 "markup.heading" = { fg = "red" }
 "markup.raw.inline" = { fg = "green" }
@@ -101,7 +103,7 @@ selection = "#144364"
 blue = "#33aaff"
 red = "#ff3344"
 purple = "#838fff"
-green = "#5fff33"
+green = "#00ee00"
 orange = "#ff9233"
 cyan = "#33ffff"
 white = "#FFFFFF"
@@ -114,3 +116,4 @@ light-gray = "#808080"
 linenr = "#E0E0E0"
 light-green = "#33ffa0"
 magenta = "#d970ff"
+yellow = "#ffe033"
