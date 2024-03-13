@@ -91,7 +91,7 @@
 "ui.menu" = { fg = "white", bg = "gray" }
 "ui.menu.selected" = { fg = "background", bg = "blue" }
 "ui.menu.scroll" = { fg = "white", bg = "light-gray" }
-"ui.virtual.inlay-hint" = { fg = "light-gray", bg = "light-background", modifiers = ["italic"] }
+"ui.virtual.inlay-hint" = { fg = "light-gray", bg = "virtual-background", modifiers = ["italic"] }
 
 "ui.bufferline" = { fg = "white", bg = "background" }
 "ui.bufferline.active" = { fg = "background", bg = "light-green", modifiers=["bold"] }
@@ -110,6 +110,7 @@ white = "#FFFFFF"
 dark-background = "#191919"
 background = "#1f1f1f"
 light-background = "#252525"
+virtual-background = "#373737"
 gray = "#353535"
 faint-gray = "#454545"
 light-gray = "#808080"
