@@ -27,8 +27,8 @@
 "type" = { fg = "cyan" }
 "variable" = { fg = "white" }
 "variable.builtin" = { fg = "orange" }
-"variable.parameter" = { fg = "orange" }
-"variable.other.member" = { fg = "white" }
+"variable.parameter" = { fg = "white" }
+"variable.other.member" = { fg = "orange" }
 "string.special" = { fg = "yellow"}
 "string.symbol" = { fg = "magenta"}
 
