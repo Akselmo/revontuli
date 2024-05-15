@@ -1,5 +1,5 @@
 [Background]
-Color=32,32,32
+Color=38,38,38
 RandomHueRange=360
 RandomSaturationRange=100
 
@@ -109,4 +109,4 @@ FillStyle=Tile
 Opacity=1
 Wallpaper=
 WallpaperFlipType=NoFlip
-WallpaperOpacity=1
+WallpaperOpacity=0.5

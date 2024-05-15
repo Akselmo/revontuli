@@ -43,12 +43,12 @@
         }
     },
     "editor-colors": {
-        "BackgroundColor": "#202020",
+        "BackgroundColor": "#262626",
         "BracketMatching": "#552c64",
         "CodeFolding": "#0f0f0f",
-        "CurrentLine": "#1e1e1e",
+        "CurrentLine": "#202020",
         "CurrentLineNumber": "#33ffa0",
-        "IconBorder": "#1d1d1d",
+        "IconBorder": "#252525",
         "IndentationLine": "#5d5d5d",
         "LineNumbers": "#bfbfbf",
         "MarkBookmark": "#33aaff",
@@ -63,8 +63,8 @@
         "SavedLines": "#5fff33",
         "SearchHighlight": "#286c16",
         "Separator": "#33ffff",
-        "SpellChecking": "#64141b",
-        "TabMarker": "#3a3a3a",
+        "SpellChecking": "#831a25",
+        "TabMarker": "#3e3e3e",
         "TemplateBackground": "#606060",
         "TemplateFocusedPlaceholder": "#144364",
         "TemplatePlaceholder": "#36911d",
@@ -105,11 +105,11 @@
         },
         "Comment": {
             "selected-text-color": "#606060",
-            "text-color": "#606060"
+            "text-color": "#646464"
         },
         "CommentVar": {
             "selected-text-color": "#606060",
-            "text-color": "#606060"
+            "text-color": "#646464"
         },
         "Constant": {
             "bold": true,
