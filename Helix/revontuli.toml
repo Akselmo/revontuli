@@ -85,7 +85,8 @@
 
 "ui.help" = { fg = "white", bg = "gray" }
 "ui.debug" = { fg = "red" }
-"ui.highlight.frameline" = { bg = "light-green" }
+"ui.debug.active" = { bg ="red", fg="dark-background" }
+"ui.highlight.frameline" = { bg = "dark-background", fg="red", modifiers=["bold"] }
 "ui.popup" = { bg = "light-background" }
 "ui.window" = { fg = "gray" }
 "ui.menu" = { fg = "white", bg = "gray" }
