@@ -78,8 +78,8 @@
 "ui.statusline" = { fg = "white", bg = "light-background" }
 "ui.statusline.inactive" = { fg = "light-gray", bg = "light-background" }
 "ui.statusline.normal" = { fg = "light-background", bg = "purple", modifiers = ["bold"] }
-"ui.statusline.insert" = { fg = "light-background", bg = "green" , modifiers = ["bold"] }
-"ui.statusline.select" = { fg = "light-background", bg = "cyan"  , modifiers = ["bold"] }
+"ui.statusline.insert" = { fg = "light-background", bg = "orange" , modifiers = ["bold"] }
+"ui.statusline.select" = { fg = "light-background", bg = "green"  , modifiers = ["bold"] }
 "ui.text" = { fg = "white" }
 "ui.text.focus" = { fg = "blue", bg = "gray", modifiers = ["bold"] }
 
