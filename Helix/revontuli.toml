@@ -69,7 +69,7 @@
 "ui.cursor.match" = { fg = "blue", modifiers = ["underlined"]}
 
 "ui.selection" = { bg = "selection" }
-"ui.cursorline.primary" = { bg = "dark-background" }
+"ui.cursorline" = { bg = "dark-background" }
 
 "ui.gutter" = {bg="dark-background"}
 "ui.linenr" = { fg = "linenr" }
@@ -93,6 +93,7 @@
 "ui.menu.selected" = { fg = "background", bg = "blue" }
 "ui.menu.scroll" = { fg = "white", bg = "light-gray" }
 "ui.virtual.inlay-hint" = { fg = "light-gray", bg = "virtual-background", modifiers = ["italic"] }
+"ui.virtual.jump-label" = {fg="light-green", bg = "virtual-background", modifiers = ["bold"]}
 
 "ui.bufferline" = { fg = "white", bg = "background" }
 "ui.bufferline.active" = { fg = "background", bg = "light-green", modifiers=["bold"] }
