@@ -26,6 +26,67 @@
                 "text-color": "#bfbfbf"
             }
         },
+        "Org Mode": {
+            "Babel": {
+                "selected-text-color": "#ffe033",
+                "text-color": "#ffe033"
+            },
+            "Block": {
+                "selected-text-color": "#ffffff",
+                "text-color": "#ffffff"
+            },
+            "Code": {
+                "selected-text-color": "#ffffff",
+                "text-color": "#ffffff"
+            },
+            "Cookie: Priority": {
+                "selected-text-color": "#33ffa0",
+                "text-color": "#33ffa0"
+            },
+            "Cookie: Statistics": {
+                "selected-text-color": "#33ffa0",
+                "text-color": "#33ffa0"
+            },
+            "Heading": {
+                "selected-text-color": "#33aaff",
+                "text-color": "#33aaff"
+            },
+            "Keyword Done": {
+                "italic": false,
+                "selected-text-color": "#00ee00",
+                "strike-through": true,
+                "text-color": "#00ee00"
+            },
+            "Keyword Todo": {
+                "selected-text-color": "#ff3344",
+                "text-color": "#ff3344",
+                "underline": false
+            },
+            "Link": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "List": {
+                "selected-text-color": "#33ffff",
+                "text-color": "#33ffff"
+            },
+            "Normal Text: Link": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Number List": {
+                "selected-text-color": "#33ffff",
+                "text-color": "#33ffff"
+            },
+            "Plain Link": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Verbatim": {
+                "selected-text-color": "#d970ff",
+                "text-color": "#d970ff"
+            }
+        },
         "Python": {
             "B-String": {
                 "selected-text-color": "#d970ff",
@@ -48,7 +109,7 @@
         "CodeFolding": "#0f0f0f",
         "CurrentLine": "#202020",
         "CurrentLineNumber": "#33ffa0",
-        "IconBorder": "#252525",
+        "IconBorder": "#303030",
         "IndentationLine": "#5d5d5d",
         "LineNumbers": "#bfbfbf",
         "MarkBookmark": "#33aaff",
@@ -62,7 +123,7 @@
         "ReplaceHighlight": "#643814",
         "SavedLines": "#5fff33",
         "SearchHighlight": "#286c16",
-        "Separator": "#33ffff",
+        "Separator": "#585858",
         "SpellChecking": "#831a25",
         "TabMarker": "#3e3e3e",
         "TemplateBackground": "#606060",
