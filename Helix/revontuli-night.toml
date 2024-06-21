@@ -1,0 +1,122 @@
+# Based on onedarker.toml https://github.com/helix-editor/helix/blob/master/runtime/themes/onedarker.toml
+# Original Author : nuid32 <lvkuzvesov@proton.me>
+# Recoloring: Akselmo <akselmo@akselmo.dev>
+
+"attribute" = { fg = "orange" }
+"comment" = { fg = "light-gray", modifiers = ["italic"] }
+"constant" = { fg = "cyan" }
+"constant.numeric" = { fg = "orange" }
+"constant.builtin" = { fg = "cyan", modifiers = ["bold"] }
+"constant.character.escape" = { fg = "yellow" }
+"constructor" = { fg = "blue" }
+"function" = { fg = "purple", modifiers = ["bold"] }
+"function.builtin" = { fg = "cyan" }
+"function.macro" = { fg = "purple", modifiers = ["bold"] }
+"function.special" = { fg = "magenta", modifiers = ["bold"] }
+"keyword" = { fg = "blue" }
+"keyword.control" = { fg = "light-green" }
+"keyword.control.import" = { fg = "magenta" }
+"keyword.directive" = { fg = "green", modifiers=["bold"] }
+"label" = { fg = "purple" }
+"namespace" = { fg = "blue", modifiers = ["bold"] }
+"operator" = { fg = "light-green" }
+"punctuation" = { fg = "light-green" }
+"keyword.operator" = { fg = "light-green" }
+"special" = { fg = "blue" }
+"string" = { fg = "green" }
+"type" = { fg = "cyan" }
+"variable" = { fg = "white" }
+"variable.builtin" = { fg = "orange" }
+"variable.parameter" = { fg = "white" }
+"variable.other.member" = { fg = "orange" }
+"string.special" = { fg = "yellow"}
+"string.symbol" = { fg = "magenta"}
+
+"markup.heading" = { fg = "red" }
+"markup.raw.inline" = { fg = "green" }
+"markup.raw.block" = { fg = "purple" }
+"markup.bold" = { fg = "orange", modifiers = ["bold"] }
+"markup.italic" = { fg = "purple", modifiers = ["italic"] }
+"markup.strikethrough" = { modifiers = ["crossed_out"] }
+"markup.list" = { fg = "red" }
+"markup.quote" = { fg = "orange" }
+"markup.link.url" = { fg = "blue", modifiers = ["underlined"]}
+"markup.link.text" = { fg = "white" }
+"markup.link.label" = { fg = "purple" }
+
+"diff.plus" = "green"
+"diff.delta" = "orange"
+"diff.minus" = "red"
+
+"diagnostic.info".underline = { color = "blue", style = "curl" }
+"diagnostic.hint".underline = { color = "green", style = "curl" }
+"diagnostic.warning".underline = { color = "orange", style = "curl" }
+"diagnostic.error".underline = { color = "red", style = "curl" }
+
+"info" = { fg = "blue", modifiers = ["bold"] }
+"hint" = { fg = "green", modifiers = ["bold"] }
+"warning" = { fg = "orange", modifiers = ["bold"] }
+"error" = { fg = "red", modifiers = ["bold"] }
+
+"ui.background" = { bg = "background" }
+"ui.virtual" = { fg = "faint-gray" }
+"ui.virtual.indent-guide" = { fg = "faint-gray" }
+"ui.virtual.whitespace" = { fg = "faint-gray" }
+"ui.virtual.ruler" = { bg = "gray" }
+
+"ui.cursor" = { fg = "white", modifiers = ["reversed"] }
+"ui.cursor.primary" = { fg = "white", modifiers = ["reversed"] }
+"ui.cursor.match" = { fg = "blue", modifiers = ["underlined"]}
+
+"ui.selection" = { bg = "selection" }
+"ui.cursorline" = { bg = "dark-background" }
+
+"ui.gutter" = {bg="dark-background"}
+"ui.linenr" = { fg = "linenr" }
+"ui.linenr.selected" = { bg = "light-green", fg="background" }
+
+"ui.statusline" = { fg = "white", bg = "light-background" }
+"ui.statusline.inactive" = { fg = "light-gray", bg = "light-background" }
+"ui.statusline.normal" = { fg = "light-background", bg = "purple", modifiers = ["bold"] }
+"ui.statusline.insert" = { fg = "light-background", bg = "orange" , modifiers = ["bold"] }
+"ui.statusline.select" = { fg = "light-background", bg = "green"  , modifiers = ["bold"] }
+"ui.text" = { fg = "white" }
+"ui.text.focus" = { fg = "blue", bg = "gray", modifiers = ["bold"] }
+
+"ui.help" = { fg = "white", bg = "gray" }
+"ui.debug" = { fg = "red" }
+"ui.debug.active" = { bg ="red", fg="dark-background" }
+"ui.highlight.frameline" = { bg = "dark-background", fg="red", modifiers=["bold"] }
+"ui.popup" = { bg = "light-background" }
+"ui.window" = { fg = "gray" }
+"ui.menu" = { fg = "white", bg = "gray" }
+"ui.menu.selected" = { fg = "background", bg = "blue" }
+"ui.menu.scroll" = { fg = "white", bg = "light-gray" }
+"ui.virtual.inlay-hint" = { fg = "light-gray", bg = "virtual-background", modifiers = ["italic"] }
+"ui.virtual.jump-label" = {fg="light-green", bg = "virtual-background", modifiers = ["bold"]}
+
+"ui.bufferline" = { fg = "white", bg = "background" }
+"ui.bufferline.active" = { fg = "background", bg = "light-green", modifiers=["bold"] }
+
+
+[palette]
+
+selection = "#144364"
+blue = "#33aaff"
+red = "#ff3344"
+purple = "#838fff"
+green = "#00ee00"
+orange = "#ff9233"
+cyan = "#33ffff"
+white = "#FFFFFF"
+dark-background = "#000000"
+background = "#050505"
+light-background = "#101010"
+virtual-background = "#121212"
+gray = "#101010"
+faint-gray = "#454545"
+light-gray = "#808080"
+linenr = "#E0E0E0"
+light-green = "#33ffa0"
+magenta = "#d970ff"
+yellow = "#ffe033"

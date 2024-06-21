@@ -26,6 +26,79 @@
                 "text-color": "#bfbfbf"
             }
         },
+        "Org Mode": {
+            "Babel": {
+                "selected-text-color": "#ffe033",
+                "text-color": "#ffe033"
+            },
+            "Block": {
+                "selected-text-color": "#ffffff",
+                "text-color": "#ffffff"
+            },
+            "Code": {
+                "selected-text-color": "#ffffff",
+                "text-color": "#ffffff"
+            },
+            "Cookie: Priority": {
+                "selected-text-color": "#33ffa0",
+                "text-color": "#33ffa0"
+            },
+            "Cookie: Statistics": {
+                "selected-text-color": "#33ffa0",
+                "text-color": "#33ffa0"
+            },
+            "Heading": {
+                "selected-text-color": "#33aaff",
+                "text-color": "#33aaff"
+            },
+            "Keyword Canceled": {
+                "selected-text-color": "#ff9233",
+                "strike-through": true,
+                "text-color": "#ff9233",
+                "underline": false
+            },
+            "Keyword Done": {
+                "italic": false,
+                "selected-text-color": "#00ee00",
+                "strike-through": true,
+                "text-color": "#00ee00"
+            },
+            "Keyword Todo": {
+                "selected-text-color": "#ff3344",
+                "text-color": "#ff3344",
+                "underline": false
+            },
+            "Keyword Waiting": {
+                "selected-text-color": "#ffe033",
+                "text-color": "#ffe033"
+            },
+            "Link": {
+                "italic": false,
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "List": {
+                "selected-text-color": "#33ffff",
+                "text-color": "#33ffff"
+            },
+            "Normal Text: Link": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Number List": {
+                "selected-text-color": "#33ffff",
+                "text-color": "#33ffff"
+            },
+            "Plain Link": {
+                "italic": false,
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Verbatim": {
+                "selected-text-color": "#d970ff",
+                "text-color": "#d970ff"
+            }
+        },
         "Python": {
             "B-String": {
                 "selected-text-color": "#d970ff",
@@ -45,8 +118,8 @@
     "editor-colors": {
         "BackgroundColor": "#000000",
         "BracketMatching": "#552c64",
-        "CodeFolding": "#0a0a0a",
-        "CurrentLine": "#050505",
+        "CodeFolding": "#151515",
+        "CurrentLine": "#101010",
         "CurrentLineNumber": "#33ffa0",
         "IconBorder": "#000000",
         "IndentationLine": "#5d5d5d",
@@ -62,15 +135,15 @@
         "ReplaceHighlight": "#643814",
         "SavedLines": "#5fff33",
         "SearchHighlight": "#286c16",
-        "Separator": "#33ffff",
-        "SpellChecking": "#64141b",
-        "TabMarker": "#3a3a3a",
+        "Separator": "#585858",
+        "SpellChecking": "#831a25",
+        "TabMarker": "#3e3e3e",
         "TemplateBackground": "#606060",
         "TemplateFocusedPlaceholder": "#144364",
         "TemplatePlaceholder": "#36911d",
         "TemplateReadOnlyPlaceholder": "#a1202b",
         "TextSelection": "#144364",
-        "WordWrapMarker": "#0f0f0f"
+        "WordWrapMarker": "#141414"
     },
     "metadata": {
         "name": "RevontuliNight",
@@ -78,8 +151,8 @@
     },
     "text-styles": {
         "Alert": {
-            "selected-text-color": "#5fff33",
-            "text-color": "#5fff33",
+            "selected-text-color": "#00ee00",
+            "text-color": "#00ee00",
             "underline": true
         },
         "Annotation": {
@@ -88,16 +161,16 @@
             "text-color": "#838fff"
         },
         "Attribute": {
-            "selected-text-color": "#5fff33",
-            "text-color": "#5fff33"
+            "selected-text-color": "#838fff",
+            "text-color": "#838fff"
         },
         "BaseN": {
             "selected-text-color": "#ff9233",
             "text-color": "#ff9233"
         },
         "BuiltIn": {
-            "selected-text-color": "#838fff",
-            "text-color": "#838fff"
+            "selected-text-color": "#33ffff",
+            "text-color": "#33ffff"
         },
         "Char": {
             "selected-text-color": "#33aaff",
@@ -105,11 +178,11 @@
         },
         "Comment": {
             "selected-text-color": "#606060",
-            "text-color": "#606060"
+            "text-color": "#646464"
         },
         "CommentVar": {
             "selected-text-color": "#606060",
-            "text-color": "#606060"
+            "text-color": "#646464"
         },
         "Constant": {
             "bold": true,
@@ -139,9 +212,8 @@
             "underline": true
         },
         "Extension": {
-            "bold": true,
-            "selected-text-color": "#d970ff",
-            "text-color": "#d970ff"
+            "selected-text-color": "#838fff",
+            "text-color": "#838fff"
         },
         "Float": {
             "selected-text-color": "#ff9233",
@@ -171,8 +243,8 @@
             "text-color": "#ffffff"
         },
         "Operator": {
-            "selected-text-color": "#33ffff",
-            "text-color": "#33ffff"
+            "selected-text-color": "#33ffa0",
+            "text-color": "#33ffa0"
         },
         "Others": {
             "italic": true,
@@ -180,8 +252,9 @@
             "text-color": "#5fff33"
         },
         "Preprocessor": {
-            "selected-text-color": "#5fff33",
-            "text-color": "#5fff33"
+            "bold": true,
+            "selected-text-color": "#00ee00",
+            "text-color": "#00ee00"
         },
         "RegionMarker": {
             "italic": true,
@@ -189,16 +262,17 @@
             "text-color": "#33aaff"
         },
         "SpecialChar": {
-            "selected-text-color": "#33ffff",
-            "text-color": "#33ffff"
+            "italic": true,
+            "selected-text-color": "#ffe033",
+            "text-color": "#ffe033"
         },
         "SpecialString": {
             "selected-text-color": "#ffe033",
             "text-color": "#ffe033"
         },
         "String": {
-            "selected-text-color": "#5fff33",
-            "text-color": "#5fff33"
+            "selected-text-color": "#00ee00",
+            "text-color": "#00ee00"
         },
         "Variable": {
             "selected-text-color": "#ff9233",
