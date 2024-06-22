@@ -104,7 +104,7 @@
         }
     },
     "editor-colors": {
-        "BackgroundColor": "#262626",
+        "BackgroundColor": "#252525",
         "BracketMatching": "#552c64",
         "CodeFolding": "#0f0f0f",
         "CurrentLine": "#202020",
@@ -178,7 +178,7 @@
             "text-color": "#33ffff"
         },
         "ControlFlow": {
-            "bold": true,
+            "italic": true,
             "selected-text-color": "#33ffa0",
             "text-color": "#33ffa0"
         },
