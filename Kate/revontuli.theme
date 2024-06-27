@@ -51,6 +51,16 @@
                 "selected-text-color": "#33aaff",
                 "text-color": "#33aaff"
             },
+            "Keyword Canceled": {
+                "bold": true,
+                "italic": true,
+                "strike-through": true
+            },
+            "Keyword Doing": {
+                "bold": true,
+                "selected-text-color": "#33ffff",
+                "text-color": "#33ffff"
+            },
             "Keyword Done": {
                 "italic": false,
                 "selected-text-color": "#00ee00",
@@ -58,9 +68,15 @@
                 "text-color": "#00ee00"
             },
             "Keyword Todo": {
-                "selected-text-color": "#ff3344",
-                "text-color": "#ff3344",
-                "underline": false
+                "bold": true,
+                "italic": true,
+                "selected-text-color": "#ff9233",
+                "text-color": "#ff9233"
+            },
+            "Keyword Waiting": {
+                "bold": true,
+                "selected-text-color": "#ffff00",
+                "text-color": "#ffff00"
             },
             "Link": {
                 "selected-text-color": "#838fff",
@@ -149,6 +165,7 @@
             "text-color": "#838fff"
         },
         "Attribute": {
+            "italic": true,
             "selected-text-color": "#838fff",
             "text-color": "#838fff"
         },
