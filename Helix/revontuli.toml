@@ -10,6 +10,7 @@
 "constant.character.escape" = { fg = "yellow" }
 "constructor" = { fg = "blue" }
 "function" = { fg = "purple", modifiers = ["bold"] }
+"function.method" = { fg = "purple", modifiers = ["bold"] }
 "function.builtin" = { fg = "cyan" }
 "function.macro" = { fg = "purple", modifiers = ["bold"] }
 "function.special" = { fg = "magenta", modifiers = ["bold"] }
@@ -17,12 +18,15 @@
 "keyword.control" = { fg = "light-green", modifiers= ["italic"] }
 "keyword.control.import" = { fg = "magenta" }
 "keyword.directive" = { fg = "green", modifiers=["bold"] }
+"keyword.storage" = {fg ="blue"}
+"keyword.storage.type" = { fg = "blue", modifiers=["bold"]}
+"keyword.storage.modifier" = { fg="purple", modifiers=["italic"]}
 "label" = { fg = "purple" }
-"namespace" = { fg = "blue", modifiers = ["bold"] }
+"namespace" = { fg = "cyan" }
 "operator" = { fg = "light-green" }
 "punctuation" = { fg = "light-green" }
 "keyword.operator" = { fg = "light-green" }
-"special" = { fg = "blue" }
+"special" = { fg = "magenta", modifiers=["italic"] }
 "string" = { fg = "green" }
 "type" = { fg = "cyan" }
 "variable" = { fg = "white" }
