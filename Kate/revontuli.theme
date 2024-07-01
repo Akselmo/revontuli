@@ -20,6 +20,25 @@
                 "text-color": "#33aaff"
             }
         },
+        "JavaScript": {
+            "Built-in Objects": {
+                "italic": true
+            },
+            "Object Member": {
+                "selected-text-color": "#33ffff",
+                "text-color": "#33ffff"
+            },
+            "Object Property (Built-in)": {
+                "bold": true,
+                "italic": false,
+                "selected-text-color": "#33ffff",
+                "text-color": "#33ffff"
+            },
+            "Objects": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            }
+        },
         "Modelines": {
             "Variable": {
                 "selected-text-color": "#bfbfbf",
@@ -36,8 +55,8 @@
                 "text-color": "#ffffff"
             },
             "Code": {
-                "selected-text-color": "#ffffff",
-                "text-color": "#ffffff"
+                "selected-text-color": "#00ee00",
+                "text-color": "#00ee00"
             },
             "Cookie: Priority": {
                 "selected-text-color": "#33ffa0",
@@ -110,6 +129,16 @@
             },
             "Special Variable": {
                 "italic": true
+            }
+        },
+        "QML": {
+            "Elements": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Signal": {
+                "selected-text-color": "#00ee00",
+                "text-color": "#00ee00"
             }
         },
         "XML": {
