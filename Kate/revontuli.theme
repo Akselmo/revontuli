@@ -25,12 +25,11 @@
                 "italic": true
             },
             "Object Member": {
-                "selected-text-color": "#33ffff",
-                "text-color": "#33ffff"
+                "selected-text-color": "#ff9233",
+                "text-color": "#ff9233"
             },
             "Object Property (Built-in)": {
                 "bold": true,
-                "italic": false,
                 "selected-text-color": "#33ffff",
                 "text-color": "#33ffff"
             },
@@ -133,8 +132,12 @@
         },
         "QML": {
             "Elements": {
-                "selected-text-color": "#838fff",
-                "text-color": "#838fff"
+                "selected-text-color": "#33ffff",
+                "text-color": "#33ffff"
+            },
+            "Property Type": {
+                "selected-text-color": "#ff9233",
+                "text-color": "#ff9233"
             },
             "Signal": {
                 "selected-text-color": "#00ee00",
