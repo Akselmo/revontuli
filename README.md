@@ -30,7 +30,7 @@ distinction in parts where it is important.
 | Color                                    | Hex       | Usage                |
 | ---------------------------------------- | --------- | -------------------- |
 | <span style="color:#303030">█████</span> | `#303030` | Window Background    |
-| <span style="color:#282828">█████</span> | `#282828` | View Background    |
+| <span style="color:#252525">█████</span> | `#252525` | View Background    |
 | <span style="color:#202020">█████</span> | `#202020` | Alternate Background 1 |
 | <span style="color:#404040">█████</span> | `#404040` | Buttons Background|
 | <span style="color:#454545">█████</span> | `#454545` | Alternate Background 2 |
@@ -79,8 +79,8 @@ See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
 | Color                                    | Hex       |
 | ---------------------------------------- | --------- |
 | <span style="color:#191919">█████</span> | `#1d1d1d` |
-| <span style="color:#1f1f1f">█████</span> | `#202020` |
-| <span style="color:#202020">█████</span> | `#282828` |
+| <span style="color:#202020">█████</span> | `#202020` |
+| <span style="color:#252525">█████</span> | `#252525` |
 | <span style="color:#404040">█████</span> | `#303030` |
 | <span style="color:#404040">█████</span> | `#404040` |
 | <span style="color:#606060">█████</span> | `#606060` |
