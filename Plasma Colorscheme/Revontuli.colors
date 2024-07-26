@@ -9,14 +9,14 @@ IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
-Color=128,128,128
-ColorAmount=0.025
-ColorEffect=2
-ContrastAmount=0.1
+Color=0,0,0
+ColorAmount=0.75
+ColorEffect=0
+ContrastAmount=0.2
 ContrastEffect=2
 Enable=false
-IntensityAmount=0
-IntensityEffect=0
+IntensityAmount=-0.1
+IntensityEffect=2
 
 [Colors:Button]
 BackgroundAlternate=37,37,37
@@ -47,7 +47,7 @@ ForegroundPositive=68,225,0
 ForegroundVisited=131,143,255
 
 [Colors:Header]
-BackgroundAlternate=30,30,30
+BackgroundAlternate=48,48,48
 BackgroundNormal=48,48,48
 DecorationFocus=0,139,226
 DecorationHover=0,110,220
@@ -104,7 +104,7 @@ ForegroundVisited=131,143,255
 
 [Colors:View]
 BackgroundAlternate=29,29,29
-BackgroundNormal=38,38,38
+BackgroundNormal=37,37,37
 DecorationFocus=0,139,226
 DecorationHover=0,110,220
 ForegroundActive=51,255,255
@@ -144,6 +144,6 @@ activeBackground=48,48,48
 activeBlend=255,255,255
 activeForeground=255,255,255
 contrast=0
-inactiveBackground=47,47,47
+inactiveBackground=48,48,48
 inactiveBlend=159,159,159
 inactiveForeground=159,159,159
