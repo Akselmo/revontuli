@@ -4,23 +4,24 @@
 
 "attribute" = { fg = "orange" }
 "comment" = { fg = "light-gray", modifiers = ["italic"] }
-"constant" = { fg = "cyan" }
-"constant.numeric" = { fg = "orange" }
-"constant.builtin" = { fg = "cyan", modifiers = ["bold"] }
+"constant" = { fg = "cyan", modifiers = ["bold"] }
+"constant.numeric" = { fg = "orange", modifiers=["bold"]}
+"constant.builtin" = { fg = "blue", modifiers = ["bold"] }
 "constant.character.escape" = { fg = "yellow" }
-"constructor" = { fg = "blue" }
+"constructor" = { fg = "blue", modifiers=["bold"]}
 "function" = { fg = "purple", modifiers = ["bold"] }
 "function.method" = { fg = "purple", modifiers = ["bold"] }
 "function.builtin" = { fg = "cyan" }
 "function.macro" = { fg = "purple", modifiers = ["bold"] }
 "function.special" = { fg = "magenta", modifiers = ["bold"] }
-"keyword" = { fg = "blue" }
+"keyword" = { fg = "blue", modifiers=["bold"]}
 "keyword.control" = { fg = "light-green", modifiers= ["italic"] }
 "keyword.control.import" = { fg = "magenta" }
-"keyword.directive" = { fg = "green", modifiers=["bold"] }
-"keyword.storage" = {fg ="blue"}
+"keyword.directive" = { fg = "yellow", modifiers=["bold"] }
+"keyword.storage" = {fg ="blue", modifiers=["bold"]}
 "keyword.storage.type" = { fg = "blue", modifiers=["bold"]}
 "keyword.storage.modifier" = { fg="purple", modifiers=["italic"]}
+"keyword.function" = {fg = "blue", modifiers=["bold"]}
 "label" = { fg = "purple" }
 "namespace" = { fg = "cyan" }
 "operator" = { fg = "light-green" }
@@ -36,14 +37,16 @@
 "string.special" = { fg = "yellow"}
 "string.symbol" = { fg = "magenta"}
 
-"markup.heading" = { fg = "red" }
+"markup.heading" = { fg = "blue", modifiers = ["bold"] }
+"markup.heading.marker" = {fg = "cyan"}
 "markup.raw.inline" = { fg = "green" }
-"markup.raw.block" = { fg = "purple" }
-"markup.bold" = { fg = "orange", modifiers = ["bold"] }
-"markup.italic" = { fg = "purple", modifiers = ["italic"] }
+"markup.raw.block" = { fg = "yellow" }
+"markup.bold" = { modifiers = ["bold"] }
+"markup.italic" = { modifiers = ["italic"] }
 "markup.strikethrough" = { modifiers = ["crossed_out"] }
-"markup.list" = { fg = "red" }
-"markup.quote" = { fg = "orange" }
+"markup.list.unchecked" = { fg = "red" }
+"markup.list.checked" = { fg = "green"}
+"markup.quote" = { fg = "green" }
 "markup.link.url" = { fg = "blue", modifiers = ["underlined"]}
 "markup.link.text" = { fg = "white" }
 "markup.link.label" = { fg = "purple" }
@@ -51,6 +54,7 @@
 "diff.plus" = "green"
 "diff.delta" = "orange"
 "diff.minus" = "red"
+
 
 "diagnostic.info".underline = { color = "blue", style = "curl" }
 "diagnostic.hint".underline = { color = "green", style = "curl" }
