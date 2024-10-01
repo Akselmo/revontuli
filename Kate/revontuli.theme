@@ -44,16 +44,24 @@
                 "text-color": "#bfbfbf"
             }
         },
+        "Odin": {
+            "Attribute": {
+                "selected-text-color": "#d970ff",
+                "text-color": "#d970ff"
+            },
+            "Directive": {
+                "selected-text-color": "#ffe033",
+                "text-color": "#ffe033"
+            }
+        },
         "Org Mode": {
             "Babel": {
+                "bold": false,
                 "selected-text-color": "#ffe033",
                 "text-color": "#ffe033"
             },
-            "Block": {
-                "selected-text-color": "#ffffff",
-                "text-color": "#ffffff"
-            },
             "Code": {
+                "italic": false,
                 "selected-text-color": "#00ee00",
                 "text-color": "#00ee00"
             },
@@ -173,7 +181,7 @@
         "SearchHighlight": "#286c16",
         "Separator": "#585858",
         "SpellChecking": "#831a25",
-        "TabMarker": "#3e3e3e",
+        "TabMarker": "#404040",
         "TemplateBackground": "#606060",
         "TemplateFocusedPlaceholder": "#144364",
         "TemplatePlaceholder": "#36911d",
@@ -214,12 +222,12 @@
             "text-color": "#33aaff"
         },
         "Comment": {
-            "selected-text-color": "#606060",
-            "text-color": "#646464"
+            "selected-text-color": "#707070",
+            "text-color": "#707070"
         },
         "CommentVar": {
-            "selected-text-color": "#606060",
-            "text-color": "#646464"
+            "selected-text-color": "#757575",
+            "text-color": "#707070"
         },
         "Constant": {
             "bold": true,
