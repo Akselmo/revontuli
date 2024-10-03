@@ -6,9 +6,9 @@
         "monospace": "'IBM Plex Mono', monospace"
     },
     "colors": {
-        "accent-color": "#33aaff",
+        "accent-color": "#33bbff",
         "accent": "#0080d6",
-        "primary-color": "#33aaff",
+        "primary-color": "#33bbff",
         "warning-color": "#ff3344",
         "alert": "#d95705",
         "sidebar-color": "#1f1f1f",

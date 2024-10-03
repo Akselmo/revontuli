@@ -12,12 +12,12 @@
         },
         "Haxe": {
             "Module": {
-                "selected-text-color": "#33aaff",
-                "text-color": "#33aaff"
+                "selected-text-color": "#33bbff",
+                "text-color": "#33bbff"
             },
             "Module Name": {
-                "selected-text-color": "#33aaff",
-                "text-color": "#33aaff"
+                "selected-text-color": "#33bbff",
+                "text-color": "#33bbff"
             }
         },
         "JavaScript": {
@@ -74,8 +74,8 @@
                 "text-color": "#33ffa0"
             },
             "Heading": {
-                "selected-text-color": "#33aaff",
-                "text-color": "#33aaff"
+                "selected-text-color": "#33bbff",
+                "text-color": "#33bbff"
             },
             "Keyword Canceled": {
                 "bold": true,
@@ -168,7 +168,7 @@
         "IconBorder": "#303030",
         "IndentationLine": "#5d5d5d",
         "LineNumbers": "#bfbfbf",
-        "MarkBookmark": "#33aaff",
+        "MarkBookmark": "#33bbff",
         "MarkBreakpointActive": "#c72835",
         "MarkBreakpointDisabled": "#9f9f9f",
         "MarkBreakpointReached": "#28c7c7",
@@ -218,8 +218,8 @@
             "text-color": "#33ffff"
         },
         "Char": {
-            "selected-text-color": "#33aaff",
-            "text-color": "#33aaff"
+            "selected-text-color": "#33bbff",
+            "text-color": "#33bbff"
         },
         "Comment": {
             "selected-text-color": "#707070",
@@ -280,8 +280,8 @@
         },
         "Keyword": {
             "bold": true,
-            "selected-text-color": "#33aaff",
-            "text-color": "#33aaff"
+            "selected-text-color": "#33bbff",
+            "text-color": "#33bbff"
         },
         "Normal": {
             "selected-text-color": "#ffffff",
@@ -303,8 +303,8 @@
         },
         "RegionMarker": {
             "italic": true,
-            "selected-text-color": "#33aaff",
-            "text-color": "#33aaff"
+            "selected-text-color": "#33bbff",
+            "text-color": "#33bbff"
         },
         "SpecialChar": {
             "italic": true,

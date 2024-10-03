@@ -12,5 +12,5 @@ cyan:       #33ffff
 yellow:     #ffe033
 red:        #ff3344
 magenta:    #d970ff
-blue:       #33aaff
+blue:       #33bbff
 green:      #5fff33

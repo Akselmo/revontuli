@@ -1,7 +1,7 @@
 /* Used https://github.com/pengx17/logseq-dev-theme/blob/main/custom.css#L1203-L1244 as a base, thank you! */
 .dark-theme,
 html[data-theme=dark] {
-  --ct-primary-color: #33aaff;
+  --ct-primary-color: #33bbff;
   --ct-secondary-color: #838fff;
   --ct-warning-color: #ff3344;
   --ct-success-color: #5fff33;

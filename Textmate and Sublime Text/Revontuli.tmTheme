@@ -24,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#404040</string>
 				<key>selection</key>
-				<string>#33AAFF30</string>
+				<string>#33bbff30</string>
 				<key>selectionBorder</key>
 				<string>#BFBFBF</string>
 				<key>findHighlight</key>
@@ -213,7 +213,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#33AAFF</string>
+				<string>#33bbff</string>
 			</dict>
 		</dict>
 		<dict>

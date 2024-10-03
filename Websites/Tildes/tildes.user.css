@@ -30,7 +30,7 @@
         --foreground-highlight-color: #fff;
         --foreground-mixed-color: #BFBFBF;
         --foreground-primary-color: #fff;
-        --foreground-secondary-color: #33aaff;
+        --foreground-secondary-color: #33bbff;
         --link-color: #33ffff;
         --link-hover-color: #33ffa0;
         --link-visited-color: #838fff;
@@ -40,7 +40,7 @@
         --syntax-builtin-color: #838fff;
         --syntax-comment-color: #606060;
         --syntax-constant-color: #33ffff;
-        --syntax-keyword-color: #33aaff;
+        --syntax-keyword-color: #33bbff;
         --syntax-literal-color: #ffe033;
         --syntax-string-color: #5fff33;
         --topic-tag-nsfw-color: #ff3344;
@@ -52,12 +52,12 @@
         --warning-color: #ff9233;
         --warning-background-color: rgba(230, 107, 0, 0.9);
         --warning-foreground-color: #000;
-        --background-label-exemplary-color: #33aaff;
+        --background-label-exemplary-color: #33bbff;
         --background-label-joke-color: #d970ff;
         --background-label-noise-color: #404040;
         --background-label-offtopic-color: #5fff33;
         --background-label-malice-color: #ff3344;
-        --comment-label-exemplary-color: #33aaff;
+        --comment-label-exemplary-color: #33bbff;
         --comment-label-joke-color: #d970ff;
         --comment-label-noise-color: #404040;
         --comment-label-offtopic-color: #5fff33;

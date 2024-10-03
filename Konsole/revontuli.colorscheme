@@ -50,13 +50,13 @@ Color=255,160,82
 Color=225,126,45
 
 [Color4]
-Color=51,170,255
+Color=51,187,255
 
 [Color4Faint]
-Color=84,184,255
+Color=138,210,255
 
 [Color4Intense]
-Color=42,140,210
+Color=0,212,255
 
 [Color5]
 Color=217,112,255

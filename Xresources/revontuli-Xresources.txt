@@ -20,7 +20,7 @@
 *.color11:      #ff7513
 
 ! blue
-*.color4:       #33aaff
+*.color4:       #33bbff
 *.color12:      #15a5ff
 
 ! magenta
