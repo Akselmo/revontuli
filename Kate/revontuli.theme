@@ -38,6 +38,40 @@
                 "text-color": "#838fff"
             }
         },
+        "Markdown": {
+            "Auto-Link": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Code": {
+                "background-color": "#202020",
+                "selected-background-color": "#202020",
+                "selected-text-color": "#5fff33",
+                "text-color": "#5fff33"
+            },
+            "Email": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Fenced Code": {
+                "background-color": "#202020",
+                "selected-background-color": "#202020",
+                "selected-text-color": "#5fff33",
+                "text-color": "#5fff33"
+            },
+            "Link": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Mailto-Link": {
+                "selected-text-color": "#838fff",
+                "text-color": "#838fff"
+            },
+            "Table": {
+                "selected-text-color": "#ffe033",
+                "text-color": "#ffe033"
+            }
+        },
         "Modelines": {
             "Variable": {
                 "selected-text-color": "#bfbfbf",
@@ -60,8 +94,13 @@
                 "selected-text-color": "#ffe033",
                 "text-color": "#ffe033"
             },
+            "Block": {
+                "background-color": "#202020",
+                "selected-background-color": "#202020"
+            },
             "Code": {
-                "italic": false,
+                "background-color": "#202020",
+                "selected-background-color": "#202020",
                 "selected-text-color": "#00ee00",
                 "text-color": "#00ee00"
             },
