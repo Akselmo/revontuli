@@ -4,23 +4,23 @@ RandomHueRange=360
 RandomSaturationRange=100
 
 [BackgroundFaint]
-Color=42,42,42
+Color=37,37,37
 RandomHueRange=360
 RandomSaturationRange=100
 
 [BackgroundIntense]
-Color=16,16,16
+Color=37,37,37
 RandomHueRange=360
 RandomSaturationRange=100
 
 [Color0]
-Color=48,48,48
+Color=37,37,37
 
 [Color0Faint]
-Color=64,64,64
+Color=53,53,53
 
 [Color0Intense]
-Color=134,134,134
+Color=101,101,101
 
 [Color1]
 Color=255,51,68
