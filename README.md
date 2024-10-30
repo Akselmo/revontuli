@@ -29,9 +29,9 @@ distinction in parts where it is important.
 
 | Color                                    | Hex       | Usage                |
 | ---------------------------------------- | --------- | -------------------- |
-| <span style="color:#303030">█████</span> | `#303030` | Window Background    |
-| <span style="color:#252525">█████</span> | `#252525` | View Background    |
-| <span style="color:#202020">█████</span> | `#202020` | Alternate Background 1 |
+| <span style="color:#282828">█████</span> | `#282828` | Window Background    |
+| <span style="color:#202020">█████</span> | `#202020` | View Background    |
+| <span style="color:#191919">█████</span> | `#191919` | Alternate Background 1 |
 | <span style="color:#404040">█████</span> | `#404040` | Buttons Background|
 | <span style="color:#454545">█████</span> | `#454545` | Alternate Background 2 |
 | <span style="color:#ffffff">█████</span> | `#ffffff` | Normal text          |
@@ -80,8 +80,8 @@ See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
 | ---------------------------------------- | --------- |
 | <span style="color:#191919">█████</span> | `#1d1d1d` |
 | <span style="color:#202020">█████</span> | `#202020` |
-| <span style="color:#252525">█████</span> | `#252525` |
-| <span style="color:#404040">█████</span> | `#303030` |
+| <span style="color:#202020">█████</span> | `#202020` |
+| <span style="color:#191919">█████</span> | `#191919` |
 | <span style="color:#404040">█████</span> | `#404040` |
 | <span style="color:#606060">█████</span> | `#606060` |
 | <span style="color:#808080">█████</span> | `#808080` |
@@ -96,8 +96,8 @@ See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
 | Color                                    | Hex       |
 | ---------------------------------------- | --------- |
 | <span style="color:#000000">█████</span> | `#000000` |
-| <span style="color:#252525">█████</span> | `#252525` |
-| <span style="color:#474747">█████</span> | `#474747` |
+| <span style="color:#202020">█████</span> | `#202020` |
+| <span style="color:#191919">█████</span> | `#191919` |
 | <span style="color:#656565">█████</span> | `#656565` |
 | <span style="color:#808080">█████</span> | `#808080` |
 | <span style="color:#909090">█████</span> | `#909090` |
