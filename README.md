@@ -78,10 +78,9 @@ See Kate syntax highlighting: [Kate Revontuli theme](Kate/revontuli.theme)
 
 | Color                                    | Hex       |
 | ---------------------------------------- | --------- |
-| <span style="color:#191919">█████</span> | `#1d1d1d` |
-| <span style="color:#202020">█████</span> | `#202020` |
-| <span style="color:#202020">█████</span> | `#202020` |
 | <span style="color:#191919">█████</span> | `#191919` |
+| <span style="color:#202020">█████</span> | `#202020` |
+| <span style="color:#282828">█████</span> | `#282828` |
 | <span style="color:#404040">█████</span> | `#404040` |
 | <span style="color:#606060">█████</span> | `#606060` |
 | <span style="color:#808080">█████</span> | `#808080` |
