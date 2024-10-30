@@ -127,7 +127,7 @@
                 "text-color": "#33ffff"
             },
             "Keyword Done": {
-                "italic": false,
+                "bold": true,
                 "selected-text-color": "#00ee00",
                 "strike-through": true,
                 "text-color": "#00ee00"
@@ -199,12 +199,12 @@
         }
     },
     "editor-colors": {
-        "BackgroundColor": "#252525",
+        "BackgroundColor": "#202020",
         "BracketMatching": "#552c64",
         "CodeFolding": "#0f0f0f",
-        "CurrentLine": "#202020",
+        "CurrentLine": "#1d1d1d",
         "CurrentLineNumber": "#33ffa0",
-        "IconBorder": "#303030",
+        "IconBorder": "#282828",
         "IndentationLine": "#5d5d5d",
         "LineNumbers": "#bfbfbf",
         "MarkBookmark": "#33bbff",
