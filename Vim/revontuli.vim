@@ -31,6 +31,7 @@ let s:ctermaccent4 = 87
 let s:ctermaccent5 = 75
 let s:ctermaccent6 = 147
 let s:ctermaccent7 = 177
+let s:cursorlinecolor = "#101010"
 
 
 highlight clear
@@ -107,7 +108,7 @@ exec "hi Cursor guifg=".s:guishade0
 exec "hi Cursor ctermfg=".s:ctermshade0
 exec "hi CursorColumn guibg=".s:guishade1
 exec "hi CursorColumn ctermbg=".s:ctermshade1
-exec "hi CursorLine guibg=".s:guishade1
+exec "hi CursorLine guibg=".s:cursorlinecolor
 exec "hi CursorLine ctermbg=".s:ctermshade1." cterm=none"
 exec "hi Directory guifg=".s:guiaccent5
 exec "hi Directory ctermfg=".s:ctermaccent5
