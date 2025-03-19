@@ -103,7 +103,7 @@ ForegroundPositive=0,177,0
 ForegroundVisited=131,143,255
 
 [Colors:View]
-BackgroundAlternate=29,29,29
+BackgroundAlternate=36,36,36
 BackgroundNormal=32,32,32
 DecorationFocus=51,187,255
 DecorationHover=0,110,220
@@ -117,7 +117,7 @@ ForegroundPositive=0,177,0
 ForegroundVisited=131,143,255
 
 [Colors:Window]
-BackgroundAlternate=35,35,35
+BackgroundAlternate=36,36,36
 BackgroundNormal=40,40,40
 DecorationFocus=51,187,255
 DecorationHover=0,110,220
