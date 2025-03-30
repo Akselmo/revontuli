@@ -204,7 +204,7 @@
         "CodeFolding": "#0f0f0f",
         "CurrentLine": "#1d1d1d",
         "CurrentLineNumber": "#33ffa0",
-        "IconBorder": "#282828",
+        "IconBorder": "#303030",
         "IndentationLine": "#5d5d5d",
         "LineNumbers": "#bfbfbf",
         "MarkBookmark": "#33bbff",
@@ -220,7 +220,7 @@
         "SearchHighlight": "#286c16",
         "Separator": "#585858",
         "SpellChecking": "#831a25",
-        "TabMarker": "#404040",
+        "TabMarker": "#484848",
         "TemplateBackground": "#606060",
         "TemplateFocusedPlaceholder": "#144364",
         "TemplatePlaceholder": "#36911d",
@@ -337,8 +337,8 @@
         },
         "Preprocessor": {
             "bold": true,
-            "selected-text-color": "#00ee00",
-            "text-color": "#00ee00"
+            "selected-text-color": "#ffe033",
+            "text-color": "#ffe033"
         },
         "RegionMarker": {
             "italic": true,
