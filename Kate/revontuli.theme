@@ -44,8 +44,9 @@
                 "text-color": "#838fff"
             },
             "Code": {
-                "background-color": "#202020",
-                "selected-background-color": "#202020",
+                "background-color": "#121212",
+                "italic": false,
+                "selected-background-color": "#121212",
                 "selected-text-color": "#5fff33",
                 "text-color": "#5fff33"
             },
@@ -54,10 +55,11 @@
                 "text-color": "#838fff"
             },
             "Fenced Code": {
-                "background-color": "#202020",
-                "selected-background-color": "#202020",
-                "selected-text-color": "#5fff33",
-                "text-color": "#5fff33"
+                "background-color": "#121212",
+                "italic": false,
+                "selected-background-color": "#121212",
+                "selected-text-color": "#ffffff",
+                "text-color": "#ffffff"
             },
             "Link": {
                 "selected-text-color": "#838fff",
@@ -67,9 +69,17 @@
                 "selected-text-color": "#838fff",
                 "text-color": "#838fff"
             },
-            "Table": {
-                "selected-text-color": "#ffe033",
-                "text-color": "#ffe033"
+            "Reference-Link Name": {
+                "selected-text-color": "#33bbff",
+                "text-color": "#33bbff"
+            },
+            "Reference-Link Target": {
+                "selected-text-color": "#33bbff",
+                "text-color": "#33bbff"
+            },
+            "Reference-Link Target: Link": {
+                "selected-text-color": "#33bbff",
+                "text-color": "#33bbff"
             }
         },
         "Modelines": {
@@ -82,10 +92,6 @@
             "Attribute": {
                 "selected-text-color": "#d970ff",
                 "text-color": "#d970ff"
-            },
-            "Directive": {
-                "selected-text-color": "#ffe033",
-                "text-color": "#ffe033"
             }
         },
         "Org Mode": {
